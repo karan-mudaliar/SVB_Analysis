@@ -1,3 +1,5 @@
+Proposal draft
+
 The failure of Silicon Valley Bank is a complex issue that has attracted the attention of many analysts and researchers. The hypothesis is that a combination of economic, managerial, and regulatory factors may have played a role in the bank's downfall. The research question/goal is, "What are the key factors that contribute to a bank's failure, and how can these factors be identified and monitored to prevent future failures?".
 
 We will be using the FFIEC for the institutional reports of Silicon Valley Bank, and its more successful competitors. Methods to download and use data. Methods to tidy/transform(computing key ratios) data. Data modelling to find correlations with target variables. Data visualization of these important variables for trend analysis and Graphical comparisons.
