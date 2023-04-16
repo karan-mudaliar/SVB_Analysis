@@ -1,0 +1,1821 @@
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Earnings and Profitability	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Percent of Average Assets:																
+    Interest Income (TE)	2.98	3.49	14	3.22	3.76	12	3.75	4.03	22	3.85	4.08	28	3.95	4.12	31
+     - Interest Expense	0.13	0.50	3	0.23	0.65	7	0.29	0.80	8	0.30	0.81	6	0.27	0.82	6
+      Net Interest Income (TE)	2.85	2.97	39	3.00	3.11	39	3.45	3.23	68	3.55	3.28	72	3.67	3.31	77
+     + Noninterest Income	0.84	0.82	56	0.97	0.81	64	1.07	0.84	74	1.08	0.85	76	1.11	0.84	76
+     - Noninterest Expense	1.82	2.38	30	1.74	2.47	26	2.05	2.24	35	2.02	2.23	35	2.06	2.24	37
+      Pre-Provision Net Revenue (TE)	1.87	1.53	70	2.22	1.54	85	2.48	1.87	87	2.61	1.93	89	2.73	1.94	92
+     - Provision: Loan & Lease Losses	0.82	0.82	58	1.41	0.87	78	0.15	0.12	70	0.18	0.12	76	0.15	0.12	74
+     - Provision: Credit Loss Oth Assets	0.00	0.00	74	0.00	0.01	75	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+      Pretax Operating Income (TE)	1.05	0.69	61	0.82	0.63	46	2.32	1.74	87	2.43	1.80	88	2.57	1.83	89
+     + Realized Gains/Losses Sec	0.17	0.03	95	0.35	0.03	95	-0.01	0.01	17	-0.01	0.01	16	-0.01	0.00	12
+     + Unrealized Gains / Losses Equity Sec	0.00	0.00	69	0.00	0.00	73	0.00	0.00	48	0.00	0.00	49	0.00	0.00	48
+    Pretax Net Operating Income (TE)	1.22	0.73	67	1.16	0.68	65	2.32	1.76	86	2.42	1.82	86	2.56	1.84	88
+      Net Operating Income	0.88	0.55	64	0.84	0.51	60	1.68	1.35	85	1.75	1.39	83	1.85	1.40	88
+    Net Inc Attrib to Min Ints	0.00	0.00	88	0.00	0.00	87	0.00	0.00	82	0.00	0.00	81	0.00	0.00	81
+    Net Income Adjusted Sub S	0.88	0.55	64	0.84	0.51	60	1.68	1.35	85	1.75	1.39	82	1.85	1.41	87
+      Net Income	0.88	0.55	64	0.84	0.51	60	1.68	1.35	85	1.75	1.39	82	1.85	1.41	87
+																
+  Margin Analysis:																
+  Avg Earning Assets to Avg Assets	97.42	92.60	88	97.06	92.17	84	97.60	91.88	88	97.92	91.87	89	97.95	91.95	89
+  Avg Int-Bearing Funds to Avg Assets	83.12	78.47	75	82.18	78.61	68	82.36	78.35	71	82.33	78.17	70	82.12	78.21	67
+  Int Inc (TE) to Avg Earn Assets	3.06	3.79	9	3.32	4.10	10	3.84	4.39	13	3.93	4.46	13	4.03	4.50	19
+  Int Expense to Avg Earn Assets	0.13	0.54	3	0.23	0.70	7	0.30	0.86	6	0.30	0.89	5	0.28	0.89	5
+  Net Int Inc-TE to Avg Earn Assets	2.93	3.23	30	3.09	3.39	31	3.54	3.53	52	3.62	3.58	52	3.75	3.62	62
+																
+  Loan & Lease Analysis:																
+  Net Loss to Average Total LN&LS	0.23	0.22	66	0.35	0.22	77	0.24	0.15	74	0.26	0.15	78	0.17	0.14	72
+  Earnings Coverage of Net Losses (X)	16.97	29.81	55	13.38	26.43	47	21.23	46.60	48	20.39	70.16	43	32.35	48.56	57
+  LN&LS Allowance to LN&LS Not HFS	1.61	1.40	76	1.53	1.25	76	0.92	0.78	64	0.98	0.80	71	1.03	0.81	75
+  LN&LS Allowance to Net Losses (X)	7.35	15.27	36	4.71	12.56	32	4.26	9.67	36	4.00	10.15	31	6.23	10.20	52
+  LN&LS Allowance to Nonaccrual LN&LS (X)	6.25	3.41	86	10.64	3.41	90	2.97	2.24	75	2.92	2.26	75	3.12	2.17	77
+  30-89 Days Past Due	0.05	0.30	8	0.67	0.44	80	0.23	0.35	36	0.17	0.31	27	0.14	0.30	21
+  Total LN&LS-90+ Days PD & Nonaccrual	0.26	0.62	12	0.16	0.60	12	0.31	0.55	23	0.34	0.54	29	0.33	0.56	27
+  Non-Curr Lns+OREO to Lns+OREO	0.26	0.66	10	0.16	0.65	12	0.31	0.60	20	0.34	0.60	25	0.33	0.63	22
+																
+  Liquidity																
+  Net Non Core Fund Dep New $250M	-9.27	5.68	12	-0.40	11.72	15	-2.23	12.07	9	-5.50	12.40	7	-10.04	13.39	5
+  Net Loans & Leases to Assets	42.75	66.97	6	48.08	67.50	8	46.96	69.57	5	45.85	69.61	4	46.27	69.81	4
+  Net Loans & Leases to Deposits	47.48	82.29	6	56.41	86.20	7	52.18	88.58	3	50.87	88.59	3	51.61	89.33	3
+																
+  Capitalization																
+  Leverage Ratio	6.9149	9.34	2	7.2111	9.83	4	7.2963	10.08	3	7.4785	10.13	3	8.1669	10.12	4
+  Total Capital Ratio	12.2824	14.11	10	12.0384	13.71	17	11.9586	13.75	14	12.3629	13.70	31	13.4372	13.68	60
+  Cash Dividends to Net Income	15.48	69.84	31	33.53	113.25	34	70.71	59.28	57	80.83	56.99	70	55.48	52.55	52
+  Non-Curr Lns+OREO to T1 Capital+Allowance	1.63	4.59	12	1.01	4.38	10	1.96	4.13	17	2.07	4.15	20	1.88	4.30	20
+																
+  Growth Rates																
+  Total Assets	35.38	20.84	85	25.05	14.21	77	24.59	11.41	84	17.07	11.62	75	13.32	10.26	71
+  Tier 1 Capital	9.27	8.87	63	8.42	8.19	62	7.49	11.53	41	9.42	10.91	54	16.82	11.12	76
+  Net Loans & Leases	25.09	15.99	81	24.13	11.54	83	17.06	11.44	76	12.99	10.91	69	12.32	10.67	71
+  Short Term Investments	32.11	226.49	16	7.86	116.43	29	41.73	39.23	63	51.48	52.29	58	127.29	24.96	88
+  Short Term Non Core Funding	195.94	-0.74	97	5,724.71	27.96	98	-71.04	13.84	1	-92.50	18.29	1	-62.59	23.21	1
+																
+Average Total Assets		73,654,074			70,732,430			61,827,081			59,824,713			57,809,657
+Net Income		322,990			149,131			1,036,618			783,099			535,341
+						
+Number of banks in Peer Group		101			97			94			91			93
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Income Statement $
+OCC Charter #  0			County:  SANTA CLARA			Income Statement $--Page 2 						04/15/2023 04:36:11 PM
+Public Report
+
+																	Percent Change
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019			1 Year
+Interest and Fees on Loans		746,795			382,187			1,597,505			1,201,171			807,285			-7.49
+Income From Lease Financing		0			0			0			0			0			N/A
+  Tax-Exempt		0			0			0			0			661			-100.00
+  Estimated Tax Benefit		0			0			0			0			161			-100.00
+    Income on Loans & Leases (TE)		746,795			382,187			1,597,505			1,201,171			807,446			-7.51
+							
+US Treas & Agency (Excl MBS)		55,438			32,722			122,154			88,093			56,891			-2.55
+Mortgage Backed Securities		239,679			121,198			443,956			320,495			202,688			18.25
+  Estimated Tax Benefit		7,039			3,306			10,799			7,928			5,336			31.93
+All Other Securities		27,223			12,805			44,943			32,955			21,848			24.60
+  Tax-Exempt Securities Income		27,288			12,825			44,952			32,991			21,848			24.90
+Investment Interest Income (TE)		329,379			170,031			621,852			449,471			286,763			14.86
+							
+Interest on Due From Banks		19,177			16,895			91,657			70,766			43,164			-55.57
+Int on Fed Funds Sold & Resales		402			387			3,351			2,596			1,643			-75.53
+Trading Account Income		0			0			0			0			0			N/A
+Other Interest Income		843			304			2,383			1,687			1,386			-39.18
+							
+  Total Interest Income (TE)		1,096,596			569,804			2,316,748			1,725,691			1,140,402			-3.84
+							
+Int on Deposits in Foreign Off		5,148			4,481			25,524			18,336			12,129			-57.56
+Interest on Domestic Deposits		37,943			32,917			152,147			111,827			62,929			-39.71
+Int on Fed Funds Purch & Repos		1,220			1,218			1,587			1,587			1,587			-23.13
+Int Trad Liab & Oth Borrowings		1,892			1,400			2,005			1,932			1,812			4.42
+Int on Sub Notes & Debentures		0			0			0			0			0			N/A
+Other Interest Expense		N/A			N/A			N/A			N/A			N/A			N/A
+							
+  Total Interest Expense		46,203			40,016			181,263			133,682			78,457			-41.11
+							
+  Net Interest Income (TE)		1,050,393			529,788			2,135,485			1,592,009			1,061,945			-1.09
+Non-interest Income		309,046			171,694			661,163			486,271			320,294			-3.51
+  Adjusted Operating Income (TE)		1,359,439			701,482			2,796,648			2,078,280			1,382,239			-1.65
+							
+Non-Interest Expense		671,252			308,255			1,266,253			905,504			594,286			12.95
+  Pre-Provision Net Revenue (TE)		688,187			393,227			1,530,395			1,172,776			787,953			-12.66
+Provision: Loan & Lease Losses		300,679			248,694			94,062			80,828			44,700			572.66
+Provision: Credit Losses Other Assets		48			56			N/A			N/A			N/A			N/A
+  Pretax Operating Income (TE)		387,460			144,477			1,436,333			1,091,948			743,253			-47.87
+							
+Realized G/L Hld-to-Maturity Sec		0			0			0			0			0			N/A
+Realized G/L Avail-for Sale Sec		61,165			61,165			-3,905			-3,905			-3,905			1,666.33
+Unrealized G/L Equity Securities		0			0			0			37			25			-100.00
+  Pretax Net Operating Inc (TE)		448,625			205,642			1,432,428			1,088,080			739,373			-39.32
+							
+Applicable Income Taxes		118,596			53,205			385,011			297,053			198,535			-40.26
+Current Tax Equiv Adjustment		7,039			3,306			10,799			7,928			5,497			28.06
+Other Tax Equiv Adjustments		0			0			0			0			0			N/A
+  Applicable Income Taxes (TE)		125,635			56,511			395,810			304,981			204,032			-38.42
+							
+  Net Operating Income		322,990			149,131			1,036,618			783,099			535,341			-39.67
+							
+Net Discontinued / Extraordinary Items		0			0			0			0			0			N/A
+Net Inc Noncontrolling Minority Interests		0			0			0			0			0			N/A
+  Net Income		322,990			149,131			1,036,618			783,099			535,341			-39.67
+							
+Cash Dividends Declared		50,000			50,000			733,000			633,000			297,000			-83.16
+Retained Earnings		272,990			99,131			303,618			150,099			238,341			14.54
+Memo: Net International Income		7,339			-989			28,712			24,061			21,901			-66.49
+Memo: Interest on Time Dep Over Ins Limit		354			169			151			66			7			4,957.14
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			QTR Income Statement $
+OCC Charter #  0			County:  SANTA CLARA			QTR Income Statement --Page 2a 						04/15/2023 04:36:11 PM
+Public Report
+
+																	Percent Change
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019			Prior Year QTR
+Interest and Fees on Loans		364,608			382,187			396,334			393,886			413,601			-11.85
+Income From Lease Financing		0			0			0			0			0			N/A
+  Tax-Exempt		0			0			0			-661			332			-100.00
+  Estimated Tax Benefit		0			0			0			-161			76			-100.00
+    Income on Loans & Leases (TE)		364,608			382,187			396,334			393,725			413,677			-11.86
+							
+US Treas & Agency (Excl MBS)		22,716			32,722			34,061			31,202			30,435			-25.36
+Mortgage Backed Securities		118,481			121,198			123,461			117,807			103,228			14.78
+  Estimated Tax Benefit		3,733			3,306			2,871			2,593			2,482			50.43
+All Other Securities		14,418			12,805			11,988			11,107			10,920			32.03
+  Tax-Exempt Securities Income		14,463			12,825			11,961			11,143			10,911			32.55
+Investment Interest Income (TE)		159,348			170,031			172,381			162,709			147,065			8.35
+							
+Interest on Due From Banks		2,282			16,895			20,891			27,602			25,237			-90.96
+Int on Fed Funds Sold & Resales		15			387			755			953			827			-98.19
+Trading Account Income		0			0			0			0			0			N/A
+Other Interest Income		539			304			696			301			744			-27.55
+							
+  Total Interest Income (TE)		526,792			569,804			591,057			585,289			587,549			-10.34
+							
+Int on Deposits in Foreign Off		667			4,481			7,188			6,207			6,004			-88.89
+Interest on Domestic Deposits		5,026			32,917			40,320			48,898			41,148			-87.79
+Int on Fed Funds Purch & Repos		2			1,218			0			0			572			-99.65
+Int Trad Liab & Oth Borrowings		492			1,400			73			120			622			-20.90
+Int on Sub Notes & Debentures		0			0			0			0			0			N/A
+Other Interest Expense		N/A			N/A			N/A			N/A			N/A			N/A
+							
+  Total Interest Expense		6,187			40,016			47,581			55,225			48,346			-87.20
+							
+  Net Interest Income (TE)		520,605			529,788			543,476			530,064			539,203			-3.45
+Non-interest Income		137,352			171,694			174,892			165,977			162,456			-15.45
+  Adjusted Operating Income (TE)		657,957			701,482			718,368			696,041			701,659			-6.23
+							
+Non-Interest Expense		362,997			308,255			360,749			311,218			306,607			18.39
+  Pre-Provision Net Revenue (TE)		294,960			393,227			357,619			384,823			395,052			-25.34
+Provision: Loan & Lease Losses		51,985			248,694			13,234			36,128			19,112			172.00
+Provision: Credit Losses Other Assets		-8			56			N/A			N/A			N/A			N/A
+  Pretax Operating Income (TE)		242,983			144,477			344,385			348,695			375,940			-35.37
+							
+Realized G/L Hld-to-Maturity Sec		0			0			0			0			0			N/A
+Realized G/L Avail-for Sale Sec		0			61,165			0			0			-275			100.00
+Unrealized G/L Equity Securities		0			0			-37			12			11			-100.00
+  Pretax Net Operating Inc (TE)		242,983			205,642			344,348			348,707			375,676			-35.32
+							
+Applicable Income Taxes		65,391			53,205			87,958			98,518			101,030			-35.28
+Current Tax Equiv Adjustment		3,733			3,306			2,871			2,431			2,557			45.99
+Other Tax Equiv Adjustments		0			0			0			0			0			N/A
+  Applicable Income Taxes (TE)		69,124			56,511			90,829			100,949			103,587			-33.27
+							
+  Net Operating Income		173,859			149,131			253,519			247,758			272,089			-36.10
+							
+Net Discontinued / Extraordinary Items		0			0			0			0			0			N/A
+Net Inc Noncontrolling Minority Interests		0			0			0			0			0			N/A
+  Net Income		173,859			149,131			253,519			247,758			272,089			-36.10
+							
+Cash Dividends Declared		0			50,000			100,000			336,000			130,000			-100.00
+Retained Earnings		173,859			99,131			153,519			-88,242			142,089			22.36
+Memo: Net International Income		8,328			-989			4,651			2,160			17,237			-51.69
+Memo: Interest on Time Dep Over Ins Limit		185			169			85			59			4			4,525.00
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Noninterest Income and Expenses
+OCC Charter #  0			County:  SANTA CLARA			Noninterest Income and Expenses--Page 3 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+PERCENT OF AVERAGE ASSETS:	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Personnel Expense	1.12	1.11	50	1.11	1.17	39	1.23	1.18	52	1.24	1.19	51	1.29	1.20	59
+  Occupancy Expense	0.10	0.24	14	0.10	0.25	14	0.11	0.25	12	0.11	0.25	13	0.11	0.25	13
+  Other Oper Exp (Incl Intangibles)	0.61	0.94	29	0.53	0.96	21	0.71	0.80	44	0.66	0.79	41	0.65	0.79	39
+    Total Overhead Expense	1.82	2.38	30	1.74	2.47	26	2.05	2.24	35	2.02	2.23	35	2.06	2.24	37
+																
+NON-INTEREST EXPENSES:
+  Personnel Expense		410,995			196,458			761,548			557,326			372,482
+  Occupancy Expense		37,132			18,304			68,067			50,590			32,709
+  Goodwill Impairment		0			0			0			0			0
+  Other Intangible Amortiz		0			0			0			0			0
+  Other Oper Exp (incl Intangibles)		223,125			93,493			436,638			297,588			189,095
+    Non-Interest Expense		671,252			308,255			1,266,253			905,504			594,286
+						
+PERCENT OF AVERAGE ASSETS:	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Fiduciary Activities	0.00	0.06	35	0.00	0.07	35	0.00	0.07	34	0.00	0.07	34	0.00	0.07	35
+  Deposit Service Charges	0.12	0.12	41	0.13	0.15	37	0.14	0.16	35	0.14	0.16	34	0.14	0.16	35
+  Trading, Vent Cap, Securtz Inc	0.02	0.02	72	0.07	0.02	84	0.05	0.02	86	0.05	0.01	88	0.07	0.01	93
+  Inv Banking, Advisory Inc	0.20	0.03	98	0.25	0.04	96	0.29	0.04	96	0.31	0.04	96	0.31	0.04	97
+  Insurance Comm & Fees	0.00	0.01	34	0.00	0.01	36	0.00	0.01	31	0.00	0.01	31	0.00	0.01	31
+  Net Servicing Fees	0.00	-0.01	47	0.00	-0.01	50	0.00	0.01	29	0.00	0.01	32	0.00	0.01	34
+  Loan & Lease Net Gains/Loss	0.00	0.13	18	0.00	0.09	22	0.00	0.07	14	0.00	0.07	16	0.00	0.06	17
+  Other Net Gains/Loss	0.00	0.00	53	0.00	0.00	53	0.00	0.00	48	0.00	0.00	48	0.00	0.00	48
+  Other Non-interest Income	0.50	0.28	86	0.53	0.30	84	0.59	0.32	89	0.59	0.34	89	0.59	0.34	87
+    Non Interest Income	0.84	0.82	56	0.97	0.81	64	1.07	0.84	74	1.08	0.85	76	1.11	0.84	76
+																
+NON-INTEREST INCOME:
+  Fiduciary Activities		0			0			0			0			0
+  Deposit Service Charges		42,732			23,133			83,958			61,690			40,492
+  Trading, Vent Cap, Securtz Inc		8,023			11,508			29,050			24,489			19,452
+  Inv Banking, Advisory Inc		75,272			43,390			182,045			136,885			90,215
+  Insurance Comm & Fees		0			0			0			0			0
+  Net Servicing Fees		0			0			0			0			0
+  Loan & Lease Net Gains/Loss		335			13			0			0			0
+  Other Net Gains/Loss		0			0			0			0			0
+  Other Non-Interest Income		182,684			93,650			366,110			263,207			170,135
+    Non Interest Income		309,046			171,694			661,163			486,271			320,294
+						
+OTHER INCOME & EXPENSE RATIOS:	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Overhead Less Non-int Inc	0.98	1.46	18	0.77	1.57	15	0.98	1.40	14	0.93	1.38	14	0.95	1.41	14
+  Efficiency Ratio	49.38	59.33	28	43.94	59.94	22	45.28	54.32	21	43.57	53.36	22	42.99	53.22	19
+  Avg Persnl Exp Per Empl ($000)	238.26	114.11	96	240.39	119.00	94	242.53	110.88	97	242.20	110.49	97	251.34	110.69	97
+  Assets Per Employee ($Million)	24.49	13.11	90	22.52	14.83	88	22.27	11.78	90	21.86	11.65	90	21.06	11.50	90
+
+  Domestic Banking Offices (#)		6			6			6			6			6
+  Foreign Branches (#)		1			1			1			1			1
+  Assets Per Domestic Office		13,179,839			11,506,682			10,872,442			10,515,945			9,849,286
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Asset Yields and Funding Costs
+OCC Charter #  0			County:  SANTA CLARA			Asset Yields and Funding Costs--Page 3a 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+YIELD ON OR COST OF:	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Total Loan & Leases (TE)	4.26	4.35	49	4.54	4.64	48	5.35	4.91	81	5.49	4.98	82	5.59	5.01	85
+    Loans in Domestic Offices	4.32	4.34	53	4.62	4.63	54	5.41	4.89	83	5.56	4.96	85	5.65	5.00	85
+      Real Estate	3.29	4.24	6	3.43	4.47	8	3.46	4.70	6	3.48	4.77	5	3.50	4.81	6
+        Secured by 1-4 Fam Resi Prop	2.97	4.14	4	3.03	4.27	2	3.13	4.48	3	3.15	4.54	2	3.18	4.58	2
+        All Other Loans Sec Real Estate	4.34	4.32	53	4.68	4.60	55	4.46	4.91	21	4.45	4.99	17	4.42	5.01	16
+      Commercial & Industrial	5.97	4.31	93	6.18	4.80	92	6.96	5.34	94	7.04	5.41	95	7.13	5.49	94
+      Individual	4.32	5.40	29	4.75	5.54	39	5.23	5.90	44	5.29	5.88	50	5.31	5.98	47
+        Credit Card	14.81	10.44	82	12.12	10.12	67	12.14	9.25	64	12.46	8.96	71	12.40	8.64	70
+      Agricultural	3.87	4.65	22	4.39	4.95	26	1.08	5.36	1	4.59	5.40	16	4.62	5.54	10
+    Loans in Foreign Offices	3.73	4.86	27	3.86	5.07	9	4.58	5.31	36	4.68	5.36	36	4.94	5.48	45
+  Total Investment Securities (TE)	2.49	2.48	51	2.51	2.60	39	2.58	2.72	35	2.57	2.76	33	2.56	2.79	30
+  Total Investment Securities (Book)	2.44	2.41	55	2.46	2.53	40	2.54	2.64	38	2.53	2.67	35	2.51	2.70	30
+    US Treas & Agency (Excl MBS)	2.13	1.79	63	2.11	2.01	53	2.07	2.25	33	2.06	2.30	28	2.04	2.34	27
+    Mortgage Backed Securities	2.52	2.36	73	2.58	2.50	58	2.69	2.61	59	2.68	2.64	58	2.66	2.67	48
+    All Other Securities	2.52	2.78	29	2.50	3.03	18	2.68	3.22	21	2.74	3.21	23	2.76	3.20	26
+  Interest-Bearing Bank Balances	0.41	0.47	45	0.97	1.19	23	1.64	2.06	13	1.75	2.25	13	1.85	2.30	11
+  Federal Funds Sold & Resales	0.61	0.91	37	1.21	1.22	46	2.14	1.99	46	2.37	2.19	48	2.43	2.15	48
+  Total Interest Bearing Deposits	0.14	0.59	5	0.26	0.76	10	0.35	0.93	10	0.35	0.95	9	0.32	0.94	8
+    Transaction accounts	0.32	0.49	33	0.08	0.76	5	0.09	1.00	1	0.09	1.02	1	0.08	1.04	3
+    Other Savings Deposits	0.13	0.37	17	0.25	0.52	25	0.32	0.66	20	0.33	0.68	17	0.29	0.69	12
+    Time Deposits	1.63	1.59	52	1.69	1.74	43	0.77	1.85	3	0.51	1.86	1	0.17	1.82	1
+    Foreign Office Deposits	0.24	0.64	20	0.42	0.82	20	0.68	0.88	54	0.71	0.95	54	0.72	0.87	54
+																
+    Federal Funds Purchased & Repos	1.56	0.66	88	1.59	0.87	88	2.55	1.44	87	2.55	1.57	88	2.55	1.57	85
+    Other Borrowed Money	0.58	1.55	9	0.83	1.90	3	1.13	2.29	5	1.30	2.37	6	1.50	2.41	8
+    Subord Notes & Debentures	N/A	4.18	N/A	N/A	4.75	N/A	N/A	4.85	N/A	N/A	5.19	N/A	N/A	5.38	N/A
+    Other Interest Expense	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Interest-Bearing Funds	0.15	0.65	3	0.28	0.84	7	0.36	1.05	7	0.36	1.07	5	0.33	1.08	4
+																
+    Memo: Interest on Time Dep Over Ins Limit	1.80	1.67	56	1.96	1.84	58	0.76	1.94	4	0.48	1.97	2	0.09	1.94	2
+																
+  PERCENT OF AVERAGE ASSETS:																
+    Total Loan & Leases	47.62	69.17	6	47.57	69.47	5	48.33	70.47	4	48.78	70.40	5	49.94	70.45	6
+      Loans in Domestic Offices	42.87	68.36	4	42.86	68.57	5	44.37	69.58	4	44.98	69.45	5	46.19	69.45	5
+        Real Estate	5.88	43.44	4	6.05	44.23	5	6.13	45.36	3	6.16	44.95	3	6.25	45.04	3
+          Secured by 1-4 Fam Resi Prop	4.50	14.39	14	4.61	15.30	12	4.59	15.77	10	4.59	15.75	10	4.64	15.68	10
+          All Other Loans Sec Real Estate	1.38	27.53	7	1.44	27.38	8	1.54	27.96	6	1.57	27.36	6	1.61	27.55	6
+        Commercial & Industrial	16.17	14.09	62	14.84	12.65	62	16.34	12.69	70	16.96	13.04	72	17.70	12.98	76
+        Individual	0.24	2.51	19	0.23	2.80	18	0.30	3.01	16	0.30	2.88	18	0.30	2.81	19
+          Credit Card	0.00	0.10	53	0.00	0.14	55	0.00	0.14	53	0.00	0.15	54	0.00	0.15	55
+        Agricultural	0.03	0.22	48	0.03	0.26	48	0.01	0.29	33	0.01	0.31	34	0.01	0.34	35
+      Loans in Foreign Offices	4.75	1.71	89	4.71	1.79	89	3.96	1.89	83	3.80	1.89	83	3.75	1.93	83
+    Total Investment Securities	35.86	16.28	95	38.28	17.06	96	38.98	16.91	95	38.92	17.09	94	38.79	17.32	94
+      US Treas & Agency (Excl MBS)	7.08	1.31	94	8.77	1.59	93	9.55	1.77	93	9.54	1.79	93	9.66	1.84	92
+      Mortgage Backed Securities	25.84	10.76	97	26.61	11.30	96	26.72	11.10	97	26.70	11.02	97	26.40	11.17	97
+      All Other Securities	2.94	2.94	59	2.90	2.92	62	2.71	2.85	58	2.68	2.97	57	2.74	3.04	57
+    Interest-Bearing Bank Balances	12.58	4.70	92	9.83	3.23	91	9.05	2.58	92	9.02	2.45	92	8.07	2.26	93
+    Federal Funds Sold & Resales	0.18	0.13	84	0.18	0.21	83	0.25	0.19	83	0.24	0.17	81	0.23	0.16	81
+    Total Interest Bearing Deposits	82.02	71.71	91	80.79	71.56	88	81.97	71.05	91	81.86	70.87	91	81.49	70.74	90
+      Transaction Accounts	0.06	4.43	2	0.03	3.97	3	0.03	3.67	3	0.03	3.63	3	0.03	3.55	3
+      Other Savings Deposits	76.08	53.24	93	74.70	53.31	93	75.79	52.32	95	76.03	52.21	96	75.59	52.19	96
+      Time Deposits	0.07	11.66	4	0.06	12.30	5	0.05	13.14	3	0.04	13.08	4	0.04	13.11	4
+      Foreign Office Deposits	5.81	1.16	94	6.00	1.21	94	6.10	1.39	94	5.76	1.38	94	5.83	1.39	94
+																
+    Federal Funds Purchased & Repos	0.21	1.09	32	0.43	1.12	40	0.10	1.07	26	0.14	1.05	29	0.22	1.05	32
+    Other Borrowed Money	0.88	4.39	19	0.96	4.66	20	0.29	4.95	5	0.33	5.00	6	0.42	5.23	9
+    Subord Notes & Debentures	0.00	0.12	68	0.00	0.12	70	0.00	0.11	68	0.00	0.11	70	0.00	0.10	72
+    Other Interest Expense Balances	0.88	4.60	17	0.96	4.86	20	0.29	5.13	5	0.33	5.18	6	0.42	5.41	9
+    All Interest-Bearing Funds	83.12	78.47	75	82.18	78.61	68	82.36	78.35	71	82.33	78.17	70	82.12	78.21	67
+																
+    Time Deposits Over Ins Limit	0.05	2.89	6	0.05	2.97	8	0.03	3.11	7	0.03	3.02	7	0.03	3.04	7
+																
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Balance Sheet $
+OCC Charter #  0			County:  SANTA CLARA			Balance Sheet $--Page 4 						04/15/2023 04:36:11 PM
+Public Report
+
+																	Percent Change															
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019			1 Quarter			1 Year
+Assets:
+  Real Estate Loans		4,501,950			4,344,500			4,267,903			3,942,336			3,736,313			3.62			20.49
+  Commercial Loans		14,439,076			13,220,532			11,449,416			11,101,471			11,055,915			9.22			30.60
+  Individual Loans		195,557			187,003			181,166			201,395			207,101			4.57			-5.57
+  Agricultural Loans		20,258			20,939			1,330			6,899			5,673			-3.25			257.10
+  Other Loans & Leases		17,554,987			18,348,511			17,412,451			15,961,365			14,333,911			-4.32			22.47
+    LN&LS Allowance		589,476			548,525			304,803			304,283			301,619			7.47			95.44
+    Unearned Income		0			168,849			162,963			164,889			160,705			-100.00			-100.00
+      Net Loans & Leases		36,122,351			35,404,111			32,844,500			30,744,294			28,876,589			2.03			25.09
+  U.S. Treasury & Agency Securities		23,437,646			19,242,754			21,872,962			21,971,198			18,179,207			21.80			28.93
+  Municipal Securities		2,154,441			2,160,342			1,785,951			1,742,817			1,579,052			-0.27			36.44
+  Foreign Debt Securities		22,525			22,153			9,038			8,847			9,211			1.68			144.54
+  All Other Securities		5,640,469			4,716,165			4,084,805			3,423,135			2,888,940			19.60			95.24
+    HTM Securities Allowance		222			230			N/A			N/A			N/A			-3.48			N/A
+  Interest-Bearing Bank Balances		12,788,082			8,460,534			5,520,226			5,772,549			8,007,281			51.15			59.71
+  Federal Funds Sold & Resales		311,072			394,894			281,123			364,307			285,449			-21.23			8.98
+  Trading Account Assets		269,348			313,887			167,341			184,560			132,379			-14.19			103.47
+    Total Investments		44,623,583			35,310,729			33,721,446			33,467,413			31,081,519			26.37			43.57
+    Total Earning Assets		80,745,934			70,714,840			66,565,946			64,211,707			59,958,108			14.19			34.67
+								
+  Nonint Cash & Due From Banks		964,724			544,448			658,563			547,040			534,176			77.19			80.60
+  Premises, Fix Assts, Cap Leases		144,724			148,723			143,397			142,811			123,452			-2.69			17.23
+  Other Real Estate Owned		0			0			0			0			0			N/A			N/A
+  Dir & Indir Inv RE Ventures		0			0			0			0			0			N/A			N/A
+  Inv in Unconsolidated Subs		105,863			73,453			74,190			73,918			76,544			44.12			38.30
+  Acceptances & Oth Assets		2,528,602			2,151,169			2,500,833			2,084,138			1,715,853			17.55			47.37
+    Total Assets		84,489,625			73,632,403			69,942,929			67,059,614			62,408,133			14.75			35.38
+  Average Assets During Quarter		76,575,718			70,732,430			67,834,187			63,854,825			59,413,401			8.26			28.89
+								
+  Liabilities:								
+  Demand Deposits		3,965,107			4,391,568			3,998,803			3,728,380			3,823,339			-9.71			3.71
+  All Now & ATS Accounts		2,020			4,094			4,439			5,379			2,244			-50.66			-9.98
+  Money Market Deposit Accounts		65,262,106			52,749,906			52,555,424			51,631,055			47,217,248			23.72			38.22
+  Other savings Deposits		4,470			5,559			2,622			2,341			2,382			-19.59			87.66
+  Time Deps At Or Below Insurance Limit		8,184			8,461			8,040			8,072			7,665			-3.27			6.77
+  Less: Fully Insured Brokered Deposits		0			0			0			0			0			N/A			N/A
+    Core Deposits		69,241,887			57,159,588			56,569,328			55,375,227			51,052,878			21.14			35.63
+  Fully Insured Brokered Deposits		0			0			0			0			0			N/A			N/A
+  Time Deps Above Insurance Limit		60,457			41,276			25,820			25,553			20,690			46.47			192.20
+  Deposits in Foreign Offices		6,779,460			5,558,624			6,348,604			5,031,476			4,875,020			21.96			39.07
+    Total Deposits		76,081,804			62,759,487			62,943,752			60,432,256			55,948,589			21.23			35.99
+  Federal Funds Purch & Resale		0			375,000			0			0			0			-100.00			N/A
+  Fed Home Loan Bor Mat < 1 Year		0			2,700,000			0			0			0			-100.00			N/A
+  Fed Home Loan Bor Mat > 1 Year		0			0			0			0			0			N/A			N/A
+  Oth Borrowing Mat < 1 Year		153,731			63,163			18,185			20,258			25,781			143.39			496.30
+  Oth Borrowing Mat > 1 Year		170,743			224,673			222,825			233,253			197,014			-24.00			-13.33
+  Subordinated Notes & Debentures		0			0			0			0			0			N/A			N/A
+  Acceptances & Other Liabilities		2,262,123			1,892,678			1,724,072			1,455,080			1,300,229			19.52			73.98
+    Total Liabilities (Incl Mortg)		78,668,401			68,015,001			64,908,834			62,140,847			57,471,613			15.66			36.88
+  Total Bank Capital & Min Int		5,821,224			5,617,402			5,034,095			4,918,767			4,936,520			3.63			17.92
+    Total Liabilities & Capital		84,489,625			73,632,403			69,942,929			67,059,614			62,408,133			14.75			35.38
+								
+  Memoranda:								
+  Officers, Shareholder Loans (#)		4			4			5			5			4						
+  Officers, Shareholder Loans ($)		46,945			42,250			37,218			32,518			34,994			11.11			34.15
+  Held-to-Maturity Securities		12,859,045			13,574,519			13,842,946			14,407,078			14,868,761			-5.27			-13.52
+  Available-for-Sale Securities		18,396,036			12,566,895			13,909,810			12,736,927			7,785,667			46.38			136.28
+  All Brokered Deposits		0			0			0			0			0			N/A			N/A
+  LN&LS in Foreign Offices		3,459,469			3,563,837			3,139,090			2,681,536			2,221,827			-2.93			55.70
+  Loans Held for Sale		0			0			0			0			0			N/A			N/A
+  Loans not Held for Sale		36,711,827			35,952,636			33,149,303			31,048,577			29,178,208			2.11			25.82
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Off Balance Sheet Items
+OCC Charter #  0			County:  SANTA CLARA			Off Balance Sheet Items--Page 5 						04/15/2023 04:36:11 PM
+Public Report
+
+																	Percent Change															
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019			1 Quarter			1 Year
+Outstanding (% of Total Assets)	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Home Equity (1-4 Family)	0.19	2.12	19	0.22	2.31	19	0.26	2.43	17	0.26	2.49	17	0.27	2.50	17
+  Credit Card	1.67	0.72	77	1.95	0.94	79	1.82	0.86	76	1.77	0.88	75	1.61	0.85	75
+  Commercial RE Secured by RE	0.22	3.92	10	0.24	4.25	12	0.10	4.60	5	0.12	4.65	6	0.17	4.60	8
+    1-4 Family Residential	0.00	0.66	13	0.00	0.72	14	0.00	0.76	13	0.00	0.78	14	0.00	0.79	14
+    Comml RE, Oth Const & Land	0.22	3.11	10	0.24	3.37	12	0.10	3.68	6	0.12	3.71	6	0.17	3.65	9
+  Commercial RE Not Secured by RE	0.00	0.12	45	0.00	0.12	45	0.00	0.13	46	0.00	0.14	47	0.00	0.13	46
+  All Other	27.73	10.33	96	27.14	9.69	96	29.09	11.17	96	27.09	11.03	96	27.63	10.98	97
+    Total LN&LS Commitments	29.82	19.27	85	29.55	19.69	85	31.27	21.07	84	29.24	20.95	80	29.68	20.83	79
+  Securities Underwriting	0.00	0.00	99	0.00	0.00	98	0.00	0.00	98	0.00	0.00	98	0.00	0.00	98
+																
+  Standby Letters of Credit	3.44	0.50	97	3.92	0.56	96	3.94	0.59	96	4.23	0.59	96	4.06	0.60	96
+    Amount Conveyed to Others	0.16	0.01	94	0.19	0.02	93	0.16	0.02	93	0.13	0.02	92	0.13	0.02	90
+  Commercial Letters of Credit	0.00	0.01	56	0.01	0.02	66	0.01	0.02	66	0.01	0.02	63	0.01	0.02	68
+																
+  Assets Securitized or Sold w/Rec	0.00	0.94	44	0.00	1.10	44	0.00	1.10	45	0.00	0.93	44	0.00	0.89	42
+    Amount of Recourse Exposure	0.00	0.09	51	0.00	0.05	53	0.00	0.06	53	0.00	0.07	53	0.00	0.05	51
+																
+  Credit Derivatives Bank as Guarantor	0.13	0.16	65	0.10	0.17	65	0.10	0.16	69	0.12	0.15	68	0.13	0.11	70
+  Credit Derivatives Bank as Beneficiary	0.00	0.07	64	0.00	0.07	65	0.00	0.07	65	0.00	0.06	65	0.00	0.04	68
+																
+  All Oth Off-Balance Sheet Items	0.00	0.74	65	0.00	0.89	67	0.00	0.87	67	0.00	0.86	66	0.00	0.76	67
+																
+  Off-Balance Sheet Items	33.39	23.43	82	33.58	24.04	81	35.33	25.41	80	33.59	25.14	79	33.88	24.74	79
+Outstanding ($000)
+  Home Equity (1-4 Family)		163,527			165,105			183,455			173,564			166,942			-0.96			-2.05
+  Credit Card		1,410,952			1,433,381			1,271,007			1,186,537			1,007,318			-1.56			40.07
+  Commercial RE Secured by RE		188,671			179,688			73,004			78,715			104,627			5.00			80.33
+    1-4 Family Residential		0			0			0			309			1,221			N/A			-100.00
+    Commercial RE, Oth Const & Land		188,671			179,688			73,004			78,406			103,406			5.00			82.46
+  Commercial RE Not Secured by RE		0			0			0			0			0			N/A			N/A
+  All Other		23,430,184			19,980,218			20,345,963			18,167,813			17,244,554			17.27			35.87
+  Securities Underwriting		0			0			0			0			0			N/A			N/A
+  Memo: Unused Commit w/mat GT 1 YR		8,023,316			6,592,328			7,712,644			6,691,984			6,610,343			21.71			21.38
+								
+  Standby Letters of Credit		2,909,304			2,888,737			2,757,095			2,835,590			2,534,389			0.71			14.79
+    Amount Conveyed to Others		137,011			141,075			114,587			88,938			83,590			-2.88			63.91
+  Commercial Letters of Credit		2,966			8,919			6,284			5,311			6,169			-66.75			-51.92
+								
+  Assets Securitized or Sold w/recourse		0			0			0			0			0			N/A			N/A
+    Amount of Recourse Exposure		0			0			0			0			0			N/A			N/A
+								
+  Credit Derivatives Bank as Guarantor		109,557			70,275			70,762			79,907			80,338			55.90			36.37
+  Credit Derivatives Bank as Beneficiary		0			0			0			0			0			N/A			N/A
+								
+  All Oth Off-Balance Sheet Items		0			0			0			0			0			N/A			N/A
+								
+  Off-Balance Sheet Items		28,215,161			24,726,323			24,707,570			22,527,437			21,144,337			14.11			33.44
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Derivative Instruments
+OCC Charter #  0			County:  SANTA CLARA			Derivative Instruments--Page 5A 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Notional Amount ($000)						
+Derivative Contracts		14,713,732			13,995,652			15,917,465			13,342,315			8,034,499
+  Interest Rate Contracts		882,649			759,253			6,294,684			5,230,808			1,158,488
+  Other Derivative Contracts		13,831,083			13,236,399			9,622,781			8,111,507			6,876,011
+    Foreign Exchange Contracts		13,831,083			13,236,399			9,622,781			8,111,507			6,876,011
+    Equity, Comm & Oth Contracts		0			0			0			0			0
+						
+Derivatives Position						
+  Future and Forwards		13,482,963			12,782,037			9,303,393			7,853,469			6,695,775
+  Written Options		174,060			227,181			159,694			129,019			90,118
+    Exchange Traded		0			0			0			0			0
+    Over-the-Counter		174,060			227,181			159,694			129,019			90,118
+  Purchased Options		174,060			227,181			159,694			129,019			90,118
+    Exchange Traded		0			0			0			0			0
+    Over-the-Counter		174,060			227,181			159,694			129,019			90,118
+  Swaps		882,649			759,253			6,294,684			5,230,808			1,158,488
+						
+Held-for-Trading		14,394,476			13,510,926			15,615,576			13,089,263			7,717,114
+  Interest Rate Contracts		882,649			759,253			6,294,684			5,230,808			1,158,488
+  Other Derivative Contracts		13,511,827			12,751,673			9,320,892			7,858,455			6,558,626
+    Foreign Exchange Contracts		13,511,827			12,751,673			9,320,892			7,858,455			6,558,626
+    Equity, Comm & Oth Contracts		0			0			0			0			0
+Non-Traded		319,256			484,726			301,889			253,052			317,385
+  Interest Rate Contracts		0			0			0			0			0
+  Other Derivative Contracts		319,256			484,726			301,889			253,052			317,385
+    Foreign Exchange Contracts		319,256			484,726			301,889			253,052			317,385
+    Equity, Comm & Oth Contracts		0			0			0			0			0
+  Memo: Marked-to-Market		319,256			484,726			301,889			253,052			317,385
+						
+Derivative Contracts (RBC Def)		15,829,264			14,744,785			16,641,206			13,903,989			8,493,455
+  One Year or Less		13,516,285			12,440,720			9,578,193			7,327,090			6,164,903
+  Over 1 Year to 5 Years		1,641,691			1,736,749			5,928,453			5,360,320			1,968,578
+  Over 5 Years		671,288			567,316			1,134,560			1,216,579			359,974
+						
+Gross Negative Fair Value		180,364			226,932			137,760			148,221			112,414
+Gross Positive Fair Value		269,348			319,815			167,341			188,864			133,460
+  Held-for-Trading		269,348			313,887			167,341			184,560			132,379
+  Non-Traded		0			5,928			0			4,304			1,081
+  Memo: Marked-to-Market		0			5,928			0			4,304			1,081
+Current Credit Exposure All Derivatives		269,348			319,815			167,341			188,864			133,460
+Credit Losses Off_BS Derivatives		0			0			0			0			0
+						
+Past Due Derivatives Instruments:						
+  Fair Value Carried as Assets		0			0			0			0			0
+						
+Impact Nontraded Derivatives Contracts:						
+  Increase (Decr) in Interest Inc		N/A			N/A			N/A			N/A			N/A
+  Increase (Decr) in Interest Exp		N/A			N/A			N/A			N/A			N/A
+  Increase (Decr) in Nonint ALLOC		N/A			N/A			N/A			N/A			N/A
+  Increase (Decr) in Net Income		N/A			N/A			N/A			N/A			N/A
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Derivative Analysis
+OCC Charter #  0			County:  SANTA CLARA			Derivative Analysis--Page 5B 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Percent of Notional Amounts	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Interest Rate Contracts	6.00	94.72	1	5.42	94.07	1	39.55	93.74	3	39.20	93.99	2	14.42	94.72	1
+  Other Derivative Contracts	94.00	2.32	98	94.58	2.76	98	60.45	2.87	96	60.80	2.75	97	85.58	2.36	98
+    Foreign Exchange Contracts	94.00	1.39	98	94.58	1.78	98	60.45	1.70	96	60.80	1.54	97	85.58	1.33	98
+    Equity, Comm & Oth Contracts	0.00	0.24	81	0.00	0.31	79	0.00	0.39	80	0.00	0.41	79	0.00	0.35	83
+																
+  Derivatives Position																
+    Futures and Forwards	91.64	11.96	98	91.33	11.74	97	58.45	11.88	91	58.86	13.41	88	83.34	11.22	96
+    Written Options	1.18	9.12	28	1.62	7.84	32	1.00	5.20	31	0.97	7.03	26	1.12	7.60	26
+      Exchange Traded	0.00	0.00	93	0.00	0.00	94	0.00	0.00	94	0.00	0.00	94	0.00	0.00	94
+      Over-the-Counter	1.18	9.06	28	1.62	7.72	33	1.00	5.05	31	0.97	6.91	27	1.12	7.45	26
+    Purchased Options	1.18	1.99	66	1.62	1.98	69	1.00	2.20	64	0.97	2.15	65	1.12	2.56	65
+      Exchange Traded	0.00	0.00	93	0.00	0.00	93	0.00	0.00	93	0.00	0.00	93	0.00	0.00	92
+      Over-the-Counter	1.18	1.93	67	1.62	1.90	72	1.00	2.05	66	0.97	2.05	69	1.12	2.45	68
+    Swaps	6.00	66.70	10	5.42	68.07	9	39.55	70.08	18	39.20	66.22	20	14.42	66.77	13
+																
+  Held-for-Trading	97.83	33.55	86	96.54	35.37	86	98.10	36.25	86	98.10	34.54	86	96.05	36.22	87
+    Interest Rate Contracts	6.00	33.83	46	5.42	34.77	45	39.55	35.26	54	39.20	34.36	53	14.42	34.97	51
+    Other Derivative Contracts	91.83	0.50	98	91.11	0.61	98	58.56	0.55	98	58.90	0.56	98	81.63	0.57	98
+      Foreign Exchange Contracts	91.83	0.28	98	91.11	0.40	98	58.56	0.31	98	58.90	0.30	98	81.63	0.30	98
+      Equity, Comm & Oth Contracts	0.00	0.07	90	0.00	0.07	90	0.00	0.08	90	0.00	0.08	89	0.00	0.09	90
+  Non-Traded	2.17	27.21	13	3.46	27.48	13	1.90	26.36	13	1.90	24.72	13	3.95	26.20	12
+    Interest Rate Contracts	0.00	38.72	10	0.00	37.55	9	0.00	38.19	7	0.00	36.76	9	0.00	36.11	6
+    Other Derivative Contracts	2.17	1.07	85	3.46	1.37	86	1.90	1.46	85	1.90	1.33	84	3.95	1.05	90
+      Foreign Exchange Contracts	2.17	0.58	88	3.46	0.78	90	1.90	0.81	88	1.90	0.73	89	3.95	0.58	92
+      Equity, Comm & Oth Contracts	0.00	0.02	89	0.00	0.04	88	0.00	0.04	88	0.00	0.04	87	0.00	0.03	91
+    Memo: Marked-to-Market	2.17	27.21	13	3.46	27.48	13	1.90	26.36	13	1.90	24.72	13	3.95	26.20	12
+																
+  Derivative Contracts (RBC Def)	107.58	85.76	98	105.35	87.07	98	104.55	91.50	98	104.21	87.57	98	105.71	86.44	98
+    One Year or Less	91.86	22.75	96	88.89	24.08	97	60.17	22.26	88	54.92	23.40	82	76.73	20.25	96
+    Over 1 Year to 5 Years	11.16	24.41	23	12.41	27.42	25	37.24	30.04	62	40.18	27.00	67	24.50	29.76	43
+    Over 5 Years	4.56	31.07	18	4.05	30.85	18	7.13	31.36	22	9.12	30.35	26	4.48	30.82	20
+																
+  Gross Negative Fair Value	1.23	1.82	50	1.62	1.97	53	0.87	0.80	56	1.11	1.13	54	1.40	0.92	70
+  Gross Positive Fair Value	1.83	2.95	27	2.29	3.00	33	1.05	1.27	40	1.42	1.73	37	1.66	1.42	62
+																
+  By Tier 1 Capital:																
+    Gross Negative Fair Value (x)	0.03	0.03	63	0.04	0.03	70	0.03	0.01	84	0.03	0.02	76	0.02	0.01	76
+    Gross Positive Fair Value (x)	0.05	0.06	50	0.06	0.06	55	0.03	0.02	69	0.04	0.03	63	0.03	0.02	59
+      Held-for-Trading (x)	2.71	0.92	83	2.65	0.99	80	3.16	0.85	87	2.74	0.84	84	1.59	0.78	76
+      Non-Traded (x)	0.06	0.79	19	0.09	0.84	20	0.06	0.68	20	0.05	0.67	21	0.07	0.65	18
+      Non-Traded Marked-to-Mkt(x)	0.06	0.79	19	0.09	0.84	20	0.06	0.68	20	0.05	0.67	21	0.07	0.65	18
+  Current Credit Exposure (x)	0.05	0.05	55	0.06	0.05	61	0.03	0.02	74	0.04	0.02	70	0.03	0.02	65
+  Credit Losses on Derivatives	0.00	0.00	94	0.00	0.01	95	0.00	0.00	94	0.00	0.00	94	0.00	0.00	94
+																
+  Past Due Derivative Instruments:																
+    Fair Value Carried as Assets	0.00	0.00	95	0.00	0.00	95	0.00	0.00	94	0.00	0.00	94	0.00	0.00	89
+																
+  Other Ratios:																
+  Cur Credit Exposure/Risk WT AST	0.56	0.59	52	0.68	0.59	56	0.38	0.22	70	0.45	0.28	70	0.34	0.22	69
+  Credit Losses on Derivatives/CR Allow	0.00	0.00	94	0.00	0.04	95	0.00	0.00	94	0.00	0.00	94	0.00	0.00	94
+  Impact Nontraded Derivatives Contracts:																
+    Incr(Dec) Interest Inc/Net Inc	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Incr(Dec) Interest Exp/Net Inc	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Incr(Dec) Nonint ALLOC/Net Inc	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Incr(Dec) Net Income/Net Inc	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Balance Sheet %
+OCC Charter #  0			County:  SANTA CLARA			Balance Sheet Percentage Composition--Page 6 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Percent of Average Assets	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Loans Held For Sale	0.00	0.45	16	0.00	0.45	17	0.00	0.42	13	0.00	0.43	13	0.00	0.37	14
+  Loans Not Held For Sale	46.40	68.03	6	48.13	68.15	7	47.88	69.42	4	48.01	69.31	5	48.66	69.28	5
+    Less: LN&LS Allowance	0.63	0.80	22	0.59	0.69	34	0.47	0.54	40	0.49	0.55	40	0.50	0.56	41
+      Net Loans & Leases	45.76	68.02	6	47.54	68.25	7	47.40	69.71	4	47.53	69.61	5	48.16	69.67	5
+																
+  Interest-Bearing Bank Balances	11.74	4.62	92	9.74	3.69	87	8.98	2.60	92	9.29	2.58	92	9.55	2.53	92
+  Federal Funds Sold & Resales	0.43	0.12	87	0.47	0.19	85	0.43	0.19	86	0.43	0.18	85	0.39	0.17	85
+  Trading Account Assets	0.33	0.25	65	0.34	0.25	64	0.22	0.13	68	0.21	0.13	68	0.19	0.11	67
+  Held-to-Maturity Securities	17.66	2.13	96	19.10	2.51	96	23.43	2.53	97	24.47	2.61	97	25.59	2.63	97
+    HTM Securities Allowance	0.00	0.00	71	0.00	0.00	70	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+  Available-for-Sale Securities	19.68	13.59	79	18.44	13.85	75	15.46	13.44	68	14.19	13.25	61	12.37	13.38	47
+  Marketable Equity Sec at FV	0.00	0.03	40	0.00	0.03	39	0.00	0.02	49	0.00	0.02	54	0.00	0.02	54
+																
+    Total Earning Assets	95.60	91.40	90	95.62	91.07	88	95.91	90.77	88	96.12	90.74	89	96.26	90.85	91
+																
+  Nonint Cash & Due From Banks	0.95	1.03	39	0.84	1.03	30	0.90	1.09	32	0.88	1.09	32	0.91	1.05	37
+  Premises, Fix Assts & Cap Leases	0.19	1.11	9	0.20	1.10	11	0.19	1.17	9	0.19	1.15	9	0.18	1.13	9
+  Other Real Estate Owned	0.00	0.03	12	0.00	0.03	13	0.00	0.04	8	0.00	0.04	8	0.00	0.04	10
+  Dir & Indir Inv RE Ventures	0.00	0.06	74	0.00	0.07	72	0.00	0.07	71	0.00	0.07	71	0.00	0.07	71
+  Inv in Unconsolidated Subs	0.11	0.03	85	0.10	0.03	84	0.12	0.03	87	0.13	0.03	86	0.13	0.03	89
+  Acceptances & Other Assets	3.15	6.10	14	3.24	6.40	16	2.88	6.60	14	2.68	6.62	13	2.52	6.58	12
+    Total Non-Earning Assets	4.40	8.60	9	4.38	8.93	11	4.09	9.24	11	3.88	9.26	10	3.74	9.15	8
+      Total Assets	100.00	100.00	77	100.00	100.00	75	100.00	100.00	96	100.00	100.00	98	100.00	100.00	97
+																
+  Standby Letters of Credit	3.75	0.53	97	3.93	0.57	96	4.01	0.59	96	4.03	0.60	96	3.95	0.60	96
+																
+  Liabilities																
+  Demand Deposits	5.42	8.53	32	5.84	7.35	41	6.07	6.97	46	6.17	6.93	50	6.40	6.91	54
+  All NOW & ATS Accounts	0.00	1.98	22	0.01	1.70	24	0.01	1.78	22	0.01	1.78	22	0.01	1.78	22
+  Money Market Deposit Accounts	74.79	36.75	96	73.35	36.69	94	75.37	35.88	96	75.44	36.46	96	74.85	35.99	96
+  Other Savings Deposits	0.01	15.84	7	0.01	15.38	9	0.00	15.47	7	0.00	14.91	7	0.00	15.33	7
+  Time Deps At or Below Insurance Limit	0.01	8.15	5	0.01	8.62	6	0.01	9.42	4	0.01	9.42	5	0.01	9.49	5
+  Less: Fully Insured Brokered Deposits	0.00	3.32	6	0.00	3.66	8	0.00	3.57	5	0.00	3.62	6	0.00	3.69	7
+    Core Deposits	80.23	72.08	83	79.21	70.39	81	81.46	70.54	92	81.63	70.60	92	81.27	70.49	90
+  Fully Insured Brokered Deposits	0.00	3.32	6	0.00	3.66	8	0.00	3.57	5	0.00	3.62	6	0.00	3.69	7
+  Time Deps Above Insurance Limit	0.06	2.77	6	0.05	2.94	8	0.03	3.11	7	0.03	3.08	7	0.03	3.12	7
+  Deposits in Foreign Offices	8.19	1.26	95	8.29	1.21	95	8.22	1.96	94	7.98	1.96	94	8.15	1.97	94
+    Total Deposits	88.48	79.79	95	87.55	78.73	91	89.72	78.67	97	89.64	78.80	97	89.45	78.71	97
+																
+  Federal Funds Purch & Repos	0.16	1.04	31	0.26	1.07	34	0.10	1.06	27	0.13	1.06	30	0.18	1.05	32
+  Total Fed Home Loan Borrowings	1.18	3.23	29	1.88	4.06	33	0.10	3.97	11	0.12	3.91	11	0.17	4.13	12
+  Total Other Borrowings	0.37	0.69	52	0.37	0.63	54	0.33	0.55	49	0.32	0.55	51	0.30	0.53	50
+    Memo: Sht Ter N Core Funding	1.76	10.24	4	2.43	11.34	8	0.41	11.05	2	0.45	11.05	2	0.51	11.25	2
+																
+  Subordinated Notes & Debentures	0.00	0.12	68	0.00	0.12	70	0.00	0.11	68	0.00	0.11	70	0.00	0.10	72
+  Acceptances & Other Liabilities	2.58	1.34	93	2.52	1.29	93	2.08	1.12	91	1.98	1.10	90	1.90	1.06	90
+    Total Liabilities (Incl Mortg)	92.78	87.72	96	92.58	87.29	94	92.32	86.82	96	92.19	86.85	96	92.00	86.92	96
+																
+  Total Bank Capital & Min Int	7.22	12.28	3	7.42	12.71	5	7.68	13.18	3	7.81	13.15	3	8.00	13.08	3
+    Total Liabilities & Capital	100.00	100.00	96	100.00	100.00	96	100.00	100.00	95	100.00	100.00	95	100.00	100.00	95
+																
+  Memo: All Brokered Deposits	0.00	3.53	6	0.00	3.86	8	0.00	3.83	5	0.00	3.81	6	0.00	3.98	6
+    Insured Brokered Deposits	0.00	3.32	6	0.00	3.66	8	0.00	3.57	5	0.00	3.62	6	0.00	3.69	7
+																
+  Loans HFS as a % Loans	0.00	0.63	15	0.00	0.63	16	0.00	0.59	13	0.00	0.61	13	0.00	0.53	14
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Allowance & Loan Mix-a
+OCC Charter #  0			County:  SANTA CLARA			Analysis of Loan Allowance and Loan Mix--Page 7 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Analysis Ratios	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Loss Provision to Average Assets	0.82	0.82	58	1.41	0.87	78	0.15	0.12	70	0.18	0.12	76	0.15	0.12	74
+  Recoveries to Prior Credit Loss	25.55	30.27	49	33.50	34.41	65	30.97	35.81	50	29.71	34.40	50	33.11	32.09	54
+																
+  Net Loss to Average Total LN&LS	0.23	0.22	66	0.35	0.22	77	0.24	0.15	74	0.26	0.15	78	0.17	0.14	72
+  Gross Loss to Average Total LN&LS	0.30	0.27	69	0.44	0.27	79	0.31	0.22	74	0.33	0.20	78	0.25	0.19	70
+  Recoveries to Average Total LN&LS	0.07	0.05	69	0.09	0.06	75	0.07	0.06	63	0.07	0.06	64	0.08	0.06	71
+																
+  LN&LS Allowance to LN&LS Not HFS	1.61	1.40	76	1.53	1.25	76	0.92	0.78	64	0.98	0.80	71	1.03	0.81	75
+  LN&LS Allowance to Total LN&LS	1.61	1.38	78	1.53	1.24	78	0.92	0.77	65	0.98	0.79	72	1.03	0.80	78
+  LN&LS Allowance to Net Losses (X)	7.35	15.27	36	4.71	12.56	32	4.26	9.67	36	4.00	10.15	31	6.23	10.20	52
+  LN&LS Allowance to Nonaccrual LN&LS (X)	6.25	3.41	86	10.64	3.41	90	2.97	2.24	75	2.92	2.26	75	3.12	2.17	77
+																
+  Earnings Coverage of Net Losses (X)	16.97	29.81	55	13.38	26.43	47	21.23	46.60	48	20.39	70.16	43	32.35	48.56	57
+																
+  Net Losses by Type of LN&LS																
+  Real Estate Loans	0.03	0.03	60	0.05	0.02	82	0.03	0.01	70	0.04	0.01	79	0.06	0.02	81
+    Construction & Land Development	0.00	0.00	77	0.00	-0.01	84	0.00	-0.02	74	0.00	-0.02	75	0.00	-0.02	80
+      1-4 Family Construction	N/A	0.00	N/A	N/A	-0.01	N/A	0.00	-0.01	81	0.00	-0.01	85	0.00	0.00	88
+      Other Construction & Land	0.00	0.00	80	0.00	-0.01	85	0.00	-0.02	77	0.00	-0.03	77	0.00	-0.02	84
+    Secured by Farmland	0.00	0.00	85	0.00	0.00	87	0.00	0.00	79	0.00	0.00	77	0.00	0.00	81
+    1-4 Family Residential Loans	0.03	0.01	76	0.07	0.02	82	0.04	0.01	77	0.05	0.01	86	0.08	0.01	90
+      Home Equity Loans	1.11	0.01	97	2.36	0.01	98	1.58	0.02	96	2.06	0.01	96	2.97	0.01	96
+      1-4 Family 1st Lien Loans	0.01	0.02	62	0.02	0.01	73	0.00	0.01	52	0.00	0.01	46	0.01	0.01	49
+      1-4 Family Jr Lien Loans	0.00	-0.10	68	0.00	-0.04	68	N/A	-0.11	N/A	N/A	-0.06	N/A	N/A	-0.13	N/A
+    Multifamily Loans	0.00	0.00	86	0.00	0.00	91	0.00	0.00	80	0.00	0.00	84	0.00	0.00	88
+    Non-Farm Non-Residential Mtg	0.00	0.05	39	0.00	0.02	52	0.00	0.02	46	0.00	0.02	49	0.00	0.02	48
+      Owner Occupied Nonfarm Nonresidential	0.00	0.04	52	0.00	0.03	59	0.00	0.01	53	0.00	0.01	59	0.00	0.02	63
+      Other Nonfarm Nonresidential	0.00	0.04	53	0.00	0.01	70	0.00	0.02	50	0.00	0.02	53	0.00	0.02	54
+    RE Loans in Foreign Offices	N/A	0.11	N/A	N/A	0.00	N/A	N/A	0.05	N/A	N/A	0.06	N/A	N/A	-0.02	N/A
+																
+  Agricultural Loans	0.00	0.11	66	0.00	0.05	75	0.00	0.10	61	0.00	0.11	61	0.00	0.13	61
+  Commercial and Industrial Loans	0.64	0.45	76	1.08	0.42	85	0.69	0.33	83	0.72	0.30	85	0.42	0.24	74
+  Loans to Individuals	1.15	0.91	68	-0.03	0.93	6	-0.13	0.83	3	-0.18	0.78	3	-0.26	0.78	3
+    Credit Card Plans	0.00	2.62	26	0.00	2.82	24	3.31	2.69	62	0.00	2.72	22	0.00	2.69	18
+    Auto Loans	N/A	0.26	N/A	N/A	0.32	N/A	N/A	0.33	N/A	N/A	0.27	N/A	N/A	0.23	N/A
+  Non-Depository, Other & Muni Loans	0.00	0.06	57	0.00	0.09	62	0.01	0.07	55	0.02	0.09	60	0.03	0.10	62
+    Financial Institution Loans	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+  Loans to Foreign Governments	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+  Lease Financing	N/A	0.20	N/A	N/A	0.11	N/A	N/A	0.11	N/A	N/A	0.09	N/A	N/A	0.07	N/A
+    Leases to Individuals	N/A	0.45	N/A	N/A	0.37	N/A	N/A	0.28	N/A	N/A	0.28	N/A	N/A	0.23	N/A
+    All Other Leases	N/A	0.18	N/A	N/A	0.11	N/A	N/A	0.10	N/A	N/A	0.07	N/A	N/A	0.05	N/A
+																
+  Supplemental:																
+  Loans to Finance Comml Real Estate	N/A	0.06	N/A	N/A	0.02	N/A	N/A	0.12	N/A	N/A	0.04	N/A	N/A	0.10	N/A
+																
+Change: Loan Allowance ($000)						
+Beginning Balance		304,803			304,803			280,903			280,903			280,903
+Gross Credit Losses		51,953			36,897			92,602			72,254			35,434
+  Memo: Loans HFS Write-down		0			0			0			0			0
+Recoveries		11,829			7,756			21,037			15,132			11,243
+  Net Credit Losses		40,124			29,141			71,565			57,122			24,191
+						
+Provision: Loan & Lease Losses		300,679			248,694			94,062			80,828			44,700
+Other Adjustments		24,118			24,169			1,403			-326			207
+  LN&LS Allowance		589,476			548,525			304,803			304,283			301,619
+						
+Average Total Loans & Leases		35,071,077			33,645,371			29,883,654			29,180,357			28,868,263
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Allowance & Loan Mix-b
+OCC Charter #  0			County:  SANTA CLARA			Analysis of Loan Allowance and Loan Mix--Page 7A 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Loan Mix, % Average Gross LN&LS	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Real Estate Loans	12.36	63.75	3	12.40	64.38	4	12.58	65.28	3	12.52	64.82	3	12.47	64.84	3
+    Construction & Development	0.38	5.97	6	0.42	5.57	9	0.53	5.81	8	0.55	5.90	8	0.55	5.84	9
+      1-4 Family Construction	0.00	1.16	10	0.00	1.16	12	0.00	1.21	13	0.01	1.27	14	0.00	1.26	15
+      Other Const & Land Development	0.38	4.63	7	0.42	4.32	10	0.53	4.51	9	0.55	4.54	10	0.55	4.50	10
+    Secured by Farmland	2.05	0.61	84	2.08	0.64	83	2.19	0.69	83	2.20	0.74	82	2.24	0.80	81
+    1-4 Family Residential	9.40	21.03	21	9.37	22.17	20	9.41	22.73	18	9.37	22.84	20	9.28	22.73	20
+      Home Equity Loans	0.21	2.73	15	0.20	2.91	16	0.20	3.11	14	0.21	3.20	15	0.22	3.20	14
+      1-4 Family 1st Lien Loans	9.19	17.29	24	9.16	18.31	23	9.21	18.58	21	9.16	18.57	21	9.06	18.38	22
+      1-4 Family Jr Lien Loans	0.00	0.35	9	0.00	0.35	11	0.00	0.38	9	0.00	0.39	9	0.00	0.40	9
+    Multifamily	0.02	5.43	4	0.02	5.30	5	0.02	5.38	5	0.02	4.81	5	0.02	4.77	5
+    Non-Farm Non-Residential	0.50	26.23	6	0.52	26.09	7	0.43	26.13	6	0.38	25.89	6	0.39	25.91	6
+      Owner Occupied Non-Farm Non-Residential	0.35	8.91	10	0.36	8.62	12	0.22	9.13	9	0.18	9.32	9	0.18	9.30	9
+      Other Non-Farm Non-Residential	0.15	16.81	5	0.17	16.70	6	0.20	16.61	6	0.20	16.17	6	0.20	16.22	6
+    RE Loans in Foreign Offices	0.00	0.42	57	0.00	0.39	60	0.00	0.66	52	0.00	0.66	52	0.00	0.65	52
+																
+  Financial Institution Loans	0.06	0.01	92	0.08	0.01	91	0.08	0.01	89	0.07	0.01	88	0.09	0.01	89
+  Agricultural Loans	0.04	0.33	46	0.03	0.39	42	0.02	0.43	34	0.02	0.45	36	0.02	0.50	37
+  Commercial & Industrial Loans	36.78	20.59	90	35.45	18.78	89	37.19	18.65	89	38.02	19.19	91	38.91	19.24	91
+  Loans to Individuals	0.53	4.70	23	0.53	5.55	19	0.60	5.15	21	0.61	5.01	21	0.60	4.93	21
+    Credit Card Loans	0.00	0.15	55	0.00	0.21	55	0.00	0.20	54	0.00	0.21	55	0.00	0.22	56
+    Auto Loans	0.00	1.38	18	0.00	1.48	19	0.00	1.56	16	0.00	1.51	17	0.00	1.48	17
+  Municipal Loans	0.00	1.56	11	0.00	1.63	11	0.00	1.69	11	0.00	1.77	9	0.00	1.78	9
+  Non-Depository and Other	50.23	3.82	99	51.50	4.25	98	49.54	3.96	98	48.77	3.80	98	47.91	3.59	98
+  Loans to Foreign Governments	0.00	0.00	90	0.00	0.00	91	0.00	0.00	84	0.00	0.00	84	0.00	0.00	84
+  Lease Financing Receivables	0.00	0.60	29	0.00	0.70	30	0.00	0.71	27	0.00	0.71	29	0.00	0.70	29
+    Leases to Individuals	0.00	0.00	93	0.00	0.00	91	0.00	0.00	89	0.00	0.00	90	0.00	0.00	90
+    All Other Leases	0.00	0.52	29	0.00	0.61	30	0.00	0.62	27	0.00	0.62	29	0.00	0.62	29
+																
+  Supplemental:																
+  Loans to Finance Comml Real Est	0.00	0.46	24	0.00	0.50	25	0.00	0.43	26	0.00	0.42	26	0.00	0.41	25
+  Foreign Office Loans & Leases	9.57	0.10	98	9.65	0.16	97	8.11	0.17	97	7.74	0.18	97	7.43	0.19	97
+																
+  Memorandum (% of Avg Tot Loans):																
+    Loans & Lease Commitments	69.03	29.68	94	64.67	30.40	93	68.37	31.28	94	65.78	31.25	94	63.05	30.85	93
+    Officer, Shareholder Loans	0.13	0.20	61	0.13	0.19	63	0.12	0.19	60	0.11	0.21	57	0.12	0.20	58
+  Officer, Shareholder Loans to Assets	0.06	0.13	57	0.06	0.12	59	0.05	0.13	56	0.05	0.14	52	0.06	0.14	54
+																
+  Other Real Estate Owned % Assets																
+  Construction & Land Development	0.00	0.01	35	0.00	0.01	35	0.00	0.01	31	0.00	0.01	33	0.00	0.01	36
+    Farmland	0.00	0.00	83	0.00	0.00	82	0.00	0.00	75	0.00	0.00	77	0.00	0.00	78
+    1-4 Family	0.00	0.01	18	0.00	0.01	19	0.00	0.01	13	0.00	0.01	14	0.00	0.01	17
+    Multifamily	0.00	0.00	88	0.00	0.00	87	0.00	0.00	83	0.00	0.00	83	0.00	0.00	86
+    Non-Farm Non-Residential	0.00	0.01	33	0.00	0.01	34	0.00	0.01	25	0.00	0.01	25	0.00	0.01	25
+    Foreclosed GNMA	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Foreign Offices	0.00	0.00	94	0.00	0.00	94	0.00	0.00	88	0.00	0.00	88	0.00	0.00	88
+																
+  Subtotal	0.00	0.03	12	0.00	0.03	13	0.00	0.04	8	0.00	0.04	8	0.00	0.04	10
+    Direct and Indirect Inv	0.00	0.06	74	0.00	0.07	72	0.00	0.07	71	0.00	0.07	71	0.00	0.07	71
+      Total	0.00	0.10	10	0.00	0.12	11	0.00	0.13	7	0.00	0.13	7	0.00	0.13	9
+																
+  Asset Servicing % Assets																
+    Mortgage Servicing w/ Recourse	0.00	0.12	65	0.00	0.14	65	0.00	0.14	65	0.00	0.16	64	0.00	0.12	65
+    Mortgage Servicing w/o Recourse	0.00	5.50	26	0.00	5.89	27	0.00	6.16	25	0.00	6.22	26	0.00	5.92	27
+    Other Financial Assets	2.57	1.22	77	3.56	1.44	81	3.04	1.49	81	3.47	1.44	82	2.75	1.40	79
+      Total	2.57	7.86	39	3.56	8.58	44	3.04	9.08	41	3.47	9.26	43	2.75	8.91	38
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Concentrations of Credit
+OCC Charter #  0			County:  SANTA CLARA			Analysis of Concentrations of Credit--Page 7B 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Loan & Leases as a % of Tier 1 Capital Plus Allowance	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Real Estate Loans	77.76	432.97	5	78.04	436.22	6	81.23	449.52	4	77.61	444.75	4	72.50	444.50	4
+    Construction & Development	2.01	41.79	9	2.52	38.44	11	2.88	40.17	9	3.41	41.09	9	3.27	40.82	10
+      1-4 Family Construction	0.00	7.91	11	0.00	8.05	13	0.00	8.06	11	0.05	8.69	14	0.03	8.71	14
+      Other Const & Land Development	2.01	32.48	10	2.52	29.58	12	2.88	31.26	10	3.36	31.50	11	3.23	31.43	11
+    Secured by Farmland	12.69	3.96	82	12.89	4.21	82	13.79	4.44	83	12.80	4.80	79	12.80	5.25	77
+    1-4 Family Residential	60.07	144.93	22	59.52	154.85	22	60.69	159.95	18	59.03	159.85	18	54.21	157.51	17
+      Home Equity Loans	1.48	18.24	16	1.56	19.89	17	1.05	20.67	15	1.07	21.44	14	1.13	21.71	13
+      1-4 Family 1st Lien Loans	58.58	120.14	25	57.96	128.43	24	59.64	132.25	21	57.97	131.27	20	53.08	127.95	20
+      1-4 Family Jr Lien Loans	0.00	2.24	10	0.00	2.42	12	0.00	2.46	9	0.00	2.55	9	0.00	2.71	9
+    Multifamily	0.12	35.76	5	0.11	33.14	6	0.11	35.75	5	0.11	31.76	5	0.09	31.56	5
+    Non-Farm Non-Residential	2.88	179.04	6	2.99	170.12	7	3.75	180.96	6	2.25	177.32	6	2.13	177.24	6
+      Owner Occupied Non-Farm Non-Residential	2.10	58.25	12	2.19	59.55	13	2.38	60.93	11	1.11	61.74	10	1.01	61.45	10
+      Other Non-Farm Non-Residential	0.77	115.39	6	0.81	108.92	7	1.37	115.06	5	1.15	110.79	5	1.12	111.23	5
+    RE Loans in Foreign Offices	0.00	2.76	57	0.00	2.53	60	0.00	4.79	52	0.00	4.74	52	0.00	4.75	52
+																
+  Financial Institution Loans	0.10	0.05	85	0.39	0.08	89	0.69	0.09	91	0.15	0.07	84	0.43	0.09	88
+  Agricultural Loans	0.35	2.16	50	0.38	2.40	51	0.03	2.78	30	0.14	2.97	34	0.11	3.38	36
+  Commercial & Industrial Loans	249.29	166.50	82	237.08	129.80	87	217.22	126.27	86	218.40	129.20	86	214.09	131.18	84
+  Loans to Individuals	3.38	30.54	24	3.36	36.67	22	3.45	35.88	18	3.96	34.49	22	4.02	33.58	22
+    Credit Card Loans	0.00	0.98	54	0.00	1.26	55	0.01	1.29	56	0.01	1.31	55	0.01	1.29	58
+    Auto Loans	0.00	8.80	19	0.00	9.74	20	0.00	10.43	20	0.00	10.60	19	0.00	10.16	19
+  Municipal Loans	0.00	10.74	13	0.00	11.39	12	0.00	11.67	11	0.00	12.35	9	0.00	12.21	10
+  Non-Depository and Other	303.22	25.34	98	329.58	29.53	98	331.40	27.43	97	314.22	27.04	97	278.12	24.94	97
+  Loans to Foreign Governments	0.00	0.00	90	0.00	0.00	91	0.00	0.00	89	0.00	0.00	89	0.00	0.00	84
+  Lease Financing Receivables	0.00	4.04	31	0.00	4.63	31	0.00	4.87	29	0.00	4.84	30	0.00	4.75	29
+    Leases to Individuals	0.00	0.00	94	0.00	0.00	91	0.00	0.00	92	0.00	0.00	92	0.00	0.00	90
+    All Other Leases	0.00	3.59	31	0.00	4.14	31	0.00	4.39	29	0.00	4.36	31	0.00	4.29	30
+																
+  Supplemental:																
+  Loans to Finance Commercial Real Estate	0.00	3.21	25	0.00	3.41	26	0.00	3.08	27	0.00	3.02	26	0.00	2.85	26
+  Foreign Office Loans & Leases	59.75	0.62	98	64.01	1.08	97	59.74	1.17	97	52.79	1.26	97	43.11	1.32	95
+																
+  Commercial Real Estate Loans as a % of Tier 1 Capital Plus Allowance:																
+  Non-owner OCC Commercial Real Estate	2.90	205.88	6	3.43	199.82	7	4.37	204.39	5	4.67	198.00	6	4.48	197.62	6
+    Memo: NOO CRE 3-Year Growth Rate	-22.98	58.66	3	0.90	62.07	7	23.79	62.33	28	17.03	61.53	17	16.54	64.01	15
+  Total Commercial Real Estate	5.00	272.45	6	5.62	266.83	7	6.75	273.06	6	5.78	266.60	6	5.49	265.86	6
+																
+  Commercial Real Estate Loans as a % of Total LN&LS:																
+  Construction & Development	0.32	5.79	6	0.39	5.53	8	0.46	5.75	8	0.56	5.88	8	0.58	5.85	8
+  Non-owner OCC Commercial Real Estate	0.46	29.39	4	0.53	29.64	5	0.69	30.23	6	0.76	29.19	6	0.79	29.05	6
+  Total Commercial Real Estate	0.79	38.76	4	0.87	39.50	6	1.07	40.27	6	0.95	39.30	6	0.97	39.08	6
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			PD, Nonacc & Rest Loans-a
+OCC Charter #  0			County:  SANTA CLARA			Analysis of Past Due, Nonaccrual & Restructured--Page 8 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+% of Non-Current LN&LS by Loan Type	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Real Estate LNS-90+ Days P/D	0.00	0.05	30	0.04	0.05	67	0.01	0.07	39	0.00	0.07	25	0.00	0.08	23
+     -Nonaccrual	0.17	0.50	18	0.11	0.45	15	0.13	0.38	14	0.18	0.39	23	0.15	0.41	19
+     -Total	0.17	0.60	15	0.15	0.52	15	0.14	0.46	12	0.18	0.47	18	0.15	0.51	16
+     -30-89 DAYS P/D	0.01	0.29	5	0.30	0.41	36	0.15	0.30	27	0.11	0.25	21	0.09	0.26	17
+																
+  Const & Land Dev-90+ Days P/D	0.00	0.01	73	0.00	0.01	72	0.00	0.02	68	0.00	0.02	59	0.00	0.01	65
+     -Nonaccrual	0.00	0.25	23	0.00	0.22	25	0.00	0.17	25	0.00	0.15	28	0.00	0.18	25
+     -Total	0.00	0.27	19	0.00	0.25	22	0.00	0.21	23	0.00	0.20	24	0.00	0.21	22
+     -30-89 DAYS P/D	0.00	0.23	31	0.00	0.33	25	0.00	0.25	26	0.00	0.23	25	0.00	0.16	28
+																
+  1-4 Fam Cons & L Dev-90+ Days P/D	N/A	0.01	N/A	N/A	0.01	N/A	N/A	0.01	N/A	0.00	0.01	80	0.00	0.01	81
+     -Nonaccrual	N/A	0.20	N/A	N/A	0.18	N/A	N/A	0.10	N/A	0.00	0.09	60	0.00	0.09	57
+     -Total	N/A	0.23	N/A	N/A	0.20	N/A	N/A	0.18	N/A	0.00	0.15	53	0.00	0.11	53
+     -30-89 DAYS P/D	N/A	0.28	N/A	N/A	0.30	N/A	N/A	0.34	N/A	0.00	0.17	52	0.00	0.23	49
+																
+  Other Const & Land Dev-90+ Days P/D	0.00	0.00	80	0.00	0.01	77	0.00	0.01	73	0.00	0.01	66	0.00	0.01	70
+     -Nonaccrual	0.00	0.20	30	0.00	0.20	30	0.00	0.17	30	0.00	0.15	33	0.00	0.19	32
+     -Total	0.00	0.22	26	0.00	0.23	29	0.00	0.20	27	0.00	0.19	28	0.00	0.21	28
+     -30-89 DAYS P/D	0.00	0.20	42	0.00	0.31	30	0.00	0.19	33	0.00	0.22	32	0.00	0.14	34
+																
+  Secured by Farmland-90+ Day P/D	0.00	0.02	82	0.00	0.01	86	0.00	0.01	81	0.00	0.02	77	0.00	0.01	82
+     -Nonaccrual	0.00	1.00	38	0.00	0.83	40	0.00	0.60	40	0.00	0.73	40	0.00	0.81	36
+     -Total	0.00	1.08	36	0.00	0.88	36	0.00	0.68	39	0.00	0.83	37	0.00	0.85	33
+     -30-89 DAYS P/D	0.00	0.23	55	0.67	0.33	74	0.03	0.20	55	0.27	0.26	68	0.00	0.27	48
+																
+  1-4 Family Mtg-90+ Days P/D	0.00	0.15	34	0.05	0.12	64	0.01	0.14	45	0.00	0.14	25	0.00	0.17	28
+     -Nonaccrual	0.19	0.77	16	0.15	0.68	12	0.17	0.62	17	0.24	0.62	21	0.20	0.61	20
+     -Total	0.19	1.05	10	0.20	0.88	13	0.18	0.81	13	0.24	0.80	15	0.20	0.83	15
+     -30-89 DAYS P/D	0.02	0.44	4	0.22	0.62	15	0.20	0.57	17	0.09	0.43	11	0.12	0.45	13
+																
+  Home Equity Loans -90+ Days P/D	0.00	0.03	62	0.00	0.03	63	0.00	0.04	52	0.00	0.04	46	0.00	0.04	51
+     -Nonaccrual	2.38	1.01	88	2.40	0.85	88	4.59	0.82	92	4.76	0.77	95	4.52	0.68	94
+     -Total	2.38	1.06	88	2.40	0.90	88	4.59	1.00	91	4.76	0.94	91	4.52	0.83	92
+     -30-89 DAYS P/D	0.00	0.31	15	0.00	0.45	15	0.00	0.38	12	1.11	0.43	90	0.00	0.39	13
+																
+  1-4 Family 1st Lien Lns-90+ Days P/D	0.00	0.16	36	0.05	0.12	69	0.01	0.15	48	0.00	0.15	31	0.00	0.18	31
+     -Nonaccrual	0.13	0.73	12	0.09	0.65	9	0.09	0.58	10	0.15	0.59	20	0.11	0.59	14
+     -Total	0.13	1.02	8	0.14	0.87	9	0.11	0.77	7	0.15	0.78	12	0.11	0.81	8
+     -30-89 DAYS P/D	0.02	0.46	5	0.23	0.64	22	0.20	0.60	20	0.07	0.43	11	0.12	0.47	18
+																
+  1-4 Family Jr Lien Lns-90+ Days P/D	0.00	0.06	66	0.00	0.06	67	N/A	0.09	N/A	N/A	0.12	N/A	N/A	0.09	N/A
+     -Nonaccrual	0.00	2.28	14	0.00	1.95	14	N/A	1.90	N/A	N/A	1.93	N/A	N/A	2.09	N/A
+     -Total	0.00	2.39	13	0.00	2.05	13	N/A	2.03	N/A	N/A	2.10	N/A	N/A	2.24	N/A
+     -30-89 DAYS P/D	0.00	0.54	25	0.00	1.00	13	N/A	0.81	N/A	N/A	0.72	N/A	N/A	0.74	N/A
+																
+  Multifamily Loans-90+ Days P/D	0.00	0.00	91	0.00	0.00	92	0.00	0.00	85	0.00	0.01	82	0.00	0.01	85
+     -Nonaccrual	0.00	0.10	39	0.00	0.07	44	0.00	0.05	48	0.00	0.06	47	0.00	0.07	50
+     -Total	0.00	0.10	36	0.00	0.07	41	0.00	0.07	45	0.00	0.08	43	0.00	0.08	44
+     -30-89 DAYS P/D	0.00	0.09	52	0.00	0.11	50	0.00	0.06	46	0.00	0.05	51	0.00	0.04	55
+																
+  Non-Farm Non-Res Mtg-90+ Days P/D	0.00	0.02	55	0.00	0.01	55	0.00	0.03	41	0.00	0.02	46	0.00	0.03	44
+     -Nonaccrual	0.60	0.46	68	0.00	0.35	10	0.00	0.27	8	0.00	0.28	9	0.00	0.29	8
+     -Total	0.60	0.49	65	0.00	0.37	8	0.00	0.30	7	0.00	0.31	9	0.00	0.33	8
+     -30-89 DAYS P/D	0.00	0.16	11	0.60	0.24	86	0.00	0.13	7	0.00	0.13	11	0.00	0.12	11
+																
+  Own Occ Non-Farm Non-Res-90+ Days P/D	0.00	0.01	62	0.00	0.01	70	0.00	0.04	48	0.00	0.03	49	0.00	0.03	53
+     -Nonaccrual	0.82	0.69	65	0.00	0.58	11	0.00	0.46	10	0.00	0.46	11	0.00	0.46	11
+     -Total	0.82	0.71	65	0.00	0.61	11	0.00	0.51	8	0.00	0.50	10	0.00	0.51	11
+     -30-89 DAYS P/D	0.00	0.20	13	0.82	0.34	85	0.00	0.17	13	0.00	0.19	14	0.00	0.14	12
+																
+  Other Non-Farm Non-Res-90+ Days P/D	0.00	0.02	67	0.00	0.01	69	0.00	0.02	61	0.00	0.02	60	0.00	0.02	60
+     -Nonaccrual	0.00	0.33	10	0.00	0.23	12	0.00	0.15	13	0.00	0.18	14	0.00	0.18	17
+     -Total	0.00	0.37	9	0.00	0.24	9	0.00	0.17	10	0.00	0.20	14	0.00	0.21	15
+     -30-89 DAYS P/D	0.00	0.13	17	0.00	0.19	13	0.00	0.10	14	0.00	0.09	19	0.00	0.09	21
+																
+  RE Lns in Foreign Offices-90+ Days P/D	N/A	0.11	N/A	N/A	0.02	N/A	N/A	0.02	N/A	N/A	0.04	N/A	N/A	0.04	N/A
+     -Nonaccrual	N/A	2.62	N/A	N/A	2.79	N/A	N/A	2.97	N/A	N/A	2.97	N/A	N/A	2.93	N/A
+     -Total	N/A	2.73	N/A	N/A	2.82	N/A	N/A	2.99	N/A	N/A	3.01	N/A	N/A	2.97	N/A
+     -30-89 DAYS P/D	N/A	0.76	N/A	N/A	0.92	N/A	N/A	1.47	N/A	N/A	0.98	N/A	N/A	1.09	N/A
+																
+  Supplemental:																
+  LNS Fin Coml RE-90+ Days P/D	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	1.47	N/A
+     -Nonaccrual	N/A	0.16	N/A	N/A	0.11	N/A	N/A	0.15	N/A	N/A	0.12	N/A	N/A	0.18	N/A
+     -Total	N/A	0.16	N/A	N/A	0.11	N/A	N/A	0.21	N/A	N/A	0.17	N/A	N/A	0.29	N/A
+     -30-89 DAYS P/D	N/A	0.02	N/A	N/A	0.02	N/A	N/A	0.05	N/A	N/A	0.02	N/A	N/A	0.06	N/A
+																
+Non-Current LN&LS ($000)						
+90 Days and Over Past Due		76			4,917			365			864			111
+Total Nonaccrual LN&LS		94,326			51,574			102,668			104,045			96,641
+  Total Non-Current LN&LS		94,402			56,491			103,033			104,909			96,752
+  LN&LS 30-89 Days Past Due		18,998			241,124			77,771			54,254			40,470
+						
+Gtyd LN&LS 90+ Days P/D		0			0			0			0			0
+Gtyd LN&LS on Nonaccrual		0			0			0			0			0
+Gtyd LN&LS 30-89 Days P/D		0			0			0			0			0
+						
+Restructured LN&LS 90+ Days P/D		0			0			0			0			0
+Restructured LN&LS Nonaccrual		30,747			18,422			76,991			73,553			41,739
+Restructured LN&LS 30-89 Days P/D		0			4,863			3,870			6,167			0
+						
+Current 1-4 Family Restru LN&LS		0			0			312			314			316
+Current Other Restructured LN&LS		15,184			15,211			27,808			25,211			69,975
+  Current Total Restructured LN&LS		15,184			15,211			28,120			25,525			70,291
+Loans Secured 1-4 RE in Foreclosure		0			0			0			0			0
+Other Real Estate Owned		0			0			0			0			0
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			PD, Nonacc & Rest Loans-b
+OCC Charter #  0			County:  SANTA CLARA			Analysis of Past Due, Nonaccrual & Restructured--Page 8A 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+% of Non-Current LN&LS by Loan Type	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Financial Institution LNS-90+ Days P/D	0.00	0.00	93	0.00	0.00	93	0.00	0.00	96	0.00	0.00	93	0.00	0.00	93
+     -Nonaccrual	0.00	0.00	93	0.00	0.00	93	0.00	0.00	92	0.00	0.00	93	0.00	0.00	93
+     -Total	0.00	0.09	90	0.00	0.64	89	0.00	0.00	92	0.00	0.01	89	0.00	0.04	90
+     -30-89 DAYS P/D	0.00	0.12	86	0.00	0.03	89	0.00	0.02	88	0.00	0.00	93	0.00	0.00	93
+																
+  Coml & Indust LNS-90+ Days P/D	0.00	0.02	41	0.02	0.02	76	0.00	0.04	31	0.01	0.03	51	0.00	0.03	38
+     -Nonaccrual	0.60	0.70	50	0.35	0.82	26	0.85	0.72	65	0.87	0.69	65	0.82	0.67	62
+     -Total	0.60	0.73	47	0.38	0.92	25	0.85	0.80	57	0.88	0.73	60	0.83	0.74	61
+     -30-89 DAYS P/D	0.13	0.18	48	0.47	0.33	70	0.55	0.28	78	0.32	0.30	61	0.29	0.26	62
+																
+  Agricultural LNS-90+ Days P/D	0.00	0.03	83	0.00	0.01	84	0.00	0.00	87	0.00	0.02	80	0.00	0.01	82
+     -Nonaccrual	0.00	0.63	51	0.00	0.63	54	0.00	0.54	52	0.00	0.55	47	0.00	0.58	47
+     -Total	0.00	0.72	50	0.00	0.65	54	0.00	0.55	52	0.00	0.64	46	0.00	0.66	46
+     -30-89 DAYS P/D	0.00	0.29	56	0.00	0.33	56	0.00	0.25	54	0.00	0.16	54	0.00	0.24	50
+																
+  Loans to Individuals-90+ Days P/D	0.00	0.07	37	0.00	0.08	42	0.00	0.08	38	0.00	0.08	34	0.00	0.08	39
+     -Nonaccrual	0.00	0.23	21	0.00	0.18	23	0.00	0.15	23	0.01	0.19	22	0.01	0.18	21
+     -Total	0.00	0.33	12	0.00	0.31	14	0.00	0.26	14	0.01	0.31	13	0.01	0.29	10
+     -30-89 DAYS P/D	0.00	0.49	9	0.00	0.71	11	0.00	0.72	11	0.01	0.64	11	0.00	0.63	9
+																
+  Credit Card Plans-90+ Days P/D	0.00	0.60	31	0.00	0.70	33	0.00	0.61	33	0.00	0.61	30	0.00	0.53	32
+     -Nonaccrual	0.00	0.03	80	0.00	0.08	79	0.00	0.09	77	3.50	0.10	97	3.03	0.09	97
+     -Total	0.00	0.71	27	0.00	0.85	27	0.00	0.76	27	3.50	0.79	95	3.03	0.70	95
+     -30-89 DAYS P/D	0.00	0.77	25	0.00	1.33	16	0.00	1.10	20	4.04	1.31	91	0.00	1.09	17
+																
+  Auto Loans	N/A	0.02	N/A	N/A	0.01	N/A	N/A	0.03	N/A	N/A	0.02	N/A	N/A	0.02	N/A
+     -Nonaccrual	N/A	0.25	N/A	N/A	0.25	N/A	N/A	0.21	N/A	N/A	0.20	N/A	N/A	0.19	N/A
+     -Total	N/A	0.29	N/A	N/A	0.27	N/A	N/A	0.26	N/A	N/A	0.23	N/A	N/A	0.22	N/A
+     -30-89 DAYS P/D	N/A	0.38	N/A	N/A	0.76	N/A	N/A	0.79	N/A	N/A	0.73	N/A	N/A	0.63	N/A
+																
+  Non-depository, Other and Muni-90+ Days P/D	0.00	0.00	76	0.00	0.00	76	0.00	0.00	79	0.00	0.01	76	0.00	0.00	79
+     -Nonaccrual	0.00	0.06	53	0.00	0.06	52	0.00	0.07	47	0.00	0.11	46	0.00	0.10	47
+     -Total	0.00	0.07	44	0.00	0.08	43	0.00	0.09	40	0.00	0.14	38	0.00	0.13	40
+     -30-89 DAYS P/D	0.00	0.06	41	0.90	0.16	89	0.05	0.07	60	0.09	0.07	77	0.04	0.07	60
+																
+  Lease Financing-90+ Days P/D	N/A	0.01	N/A	N/A	0.01	N/A	N/A	0.01	N/A	N/A	0.01	N/A	N/A	0.01	N/A
+     -Nonaccrual	N/A	0.24	N/A	N/A	0.28	N/A	N/A	0.29	N/A	N/A	0.22	N/A	N/A	0.25	N/A
+     -Total	N/A	0.26	N/A	N/A	0.33	N/A	N/A	0.32	N/A	N/A	0.24	N/A	N/A	0.26	N/A
+     -30-89 DAYS P/D	N/A	0.23	N/A	N/A	0.36	N/A	N/A	0.31	N/A	N/A	0.25	N/A	N/A	0.27	N/A
+																
+  Leases to Individuals-90+ Days P/D	N/A	0.01	N/A	N/A	0.00	N/A	N/A	0.01	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+     -Nonaccrual	N/A	0.15	N/A	N/A	0.13	N/A	N/A	0.10	N/A	N/A	0.09	N/A	N/A	0.05	N/A
+     -Total	N/A	0.16	N/A	N/A	0.13	N/A	N/A	0.10	N/A	N/A	0.10	N/A	N/A	0.05	N/A
+     -30-89 DAYS P/D	N/A	0.73	N/A	N/A	0.46	N/A	N/A	0.55	N/A	N/A	0.54	N/A	N/A	0.37	N/A
+																
+  All Other Leases-90+ Days P/D	N/A	0.01	N/A	N/A	0.01	N/A	N/A	0.01	N/A	N/A	0.01	N/A	N/A	0.01	N/A
+     -Nonaccrual	N/A	0.25	N/A	N/A	0.28	N/A	N/A	0.29	N/A	N/A	0.23	N/A	N/A	0.26	N/A
+     -Total	N/A	0.26	N/A	N/A	0.33	N/A	N/A	0.33	N/A	N/A	0.26	N/A	N/A	0.27	N/A
+     -30-89 DAYS P/D	N/A	0.21	N/A	N/A	0.34	N/A	N/A	0.28	N/A	N/A	0.23	N/A	N/A	0.24	N/A
+																
+  Total LN&LS-90+ Days Past Due	0.00	0.06	19	0.01	0.06	44	0.00	0.07	21	0.00	0.07	23	0.00	0.07	14
+     -Nonaccrual	0.26	0.52	20	0.14	0.51	14	0.31	0.46	33	0.33	0.46	36	0.33	0.47	32
+     -Total	0.26	0.62	12	0.16	0.60	12	0.31	0.55	23	0.34	0.54	29	0.33	0.56	27
+     -30-89 DAYS P/D	0.05	0.30	8	0.67	0.44	80	0.23	0.35	36	0.17	0.31	27	0.14	0.30	21
+																
+  Other Pertinent Ratios:																
+  Non-Cur LN&LS to-LN&LS Allowance	16.01	49.24	10	10.30	53.35	5	33.80	82.44	20	34.48	79.72	20	32.08	79.26	18
+     -Equity Capital	1.62	3.66	20	1.01	3.37	13	2.05	2.97	37	2.13	2.92	43	1.96	3.03	38
+  % Total P/D LN&LS-Incl Nonaccrual	0.31	0.93	6	0.82	1.05	39	0.54	0.91	21	0.51	0.86	23	0.47	0.88	19
+  Non Curr LNS+OREO to LNS+OREO	0.26	0.66	10	0.16	0.65	12	0.31	0.60	20	0.34	0.60	25	0.33	0.63	22
+  Non Curr LNS+OREO to T1 Cap + Allow	1.63	4.59	12	1.01	4.38	10	1.96	4.13	17	2.07	4.15	20	1.88	4.30	20
+  Rest+Nonac+RE Acq to Eqcap+ALLL	1.71	4.14	19	1.16	4.07	13	2.52	3.74	34	2.60	3.76	39	3.19	4.06	41
+  Non-Curr Restruct Debt/Gr LN&LS	0.08	0.11	53	0.05	0.12	37	0.23	0.12	77	0.24	0.13	76	0.14	0.13	61
+  Curr+Non-Curr Restruct/GR LN&LS	0.13	0.27	39	0.09	0.30	26	0.32	0.30	56	0.32	0.31	54	0.38	0.34	61
+  Current Restruct LN&LS	0.04	0.14	31	0.04	0.16	28	0.08	0.16	40	0.08	0.17	34	0.24	0.19	63
+  Loans Sec 1-4 Fam RE in Forclosure as % Total Loans Sec 1-4 Fam RE	0.00	0.13	17	0.00	0.17	13	0.00	0.18	8	0.00	0.18	11	0.00	0.20	8
+  Gtyd LN&LS 90+ P/D / LN&LS 90+ P/D	0.00	7.60	60	0.00	10.27	65	0.00	7.87	60	0.00	10.98	52	0.00	9.07	53
+  Gtyd Nonaccrual LN&LS / Nonaccrual LN&LS	0.00	2.58	29	0.00	3.19	28	0.00	3.52	27	0.00	3.71	28	0.00	3.72	27
+  Gtyd LN&LS 30-89 P/D / LN&LS 30-89 P/D	0.00	1.44	51	0.00	1.73	29	0.00	2.17	36	0.00	2.12	33	0.00	2.29	32
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Interest Rate Risk
+OCC Charter #  0			County:  SANTA CLARA			Interest Rate Risk Analysis as a Percent of Assets--Page 9 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Long Assets Insts w/Options	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Mortgage Loans & Pass Thrus	20.27	16.73	68	20.14	17.88	60	20.40	18.59	60	21.57	18.34	67	18.84	18.18	57
+    Loans & Securities Over 15 Years	11.34	6.46	81	11.76	6.97	77	11.67	7.07	77	12.41	6.67	82	8.93	6.50	73
+    Loans & Securities 5-15 Years	7.42	5.08	74	6.50	5.53	59	7.01	5.73	61	7.30	5.66	66	7.96	5.88	68
+																
+  Other Loans and Securities	47.87	62.20	10	53.71	61.57	21	56.16	62.88	21	54.79	62.76	17	53.44	63.32	12
+    Loans & Securities Over 15 Years	0.98	2.40	34	1.19	2.44	35	1.07	2.26	33	1.00	2.21	32	0.93	2.17	32
+    Loans & Securities 5-15 Years	4.55	9.38	12	5.75	10.11	22	7.06	10.37	29	6.40	9.80	26	4.62	10.00	17
+  Total Loans & Securities Over 15 Years	12.32	9.36	69	12.95	9.96	69	12.74	9.84	72	13.42	9.40	75	9.86	9.20	60
+																
+  CMO'S Total	12.19	4.57	90	10.64	4.89	86	10.59	4.68	88	10.50	4.58	89	10.87	4.64	88
+    Avg Life Over 3 Years	8.14	2.33	94	6.45	2.71	85	6.59	2.92	85	5.98	2.90	80	6.20	3.17	75
+																
+  Structured Notes	0.00	0.00	83	0.00	0.01	82	0.00	0.01	83	0.00	0.01	81	0.00	0.01	80
+  Mortgage Servicing (FV)	0.00	0.04	33	0.00	0.05	34	0.00	0.07	35	0.00	0.07	35	0.00	0.06	36
+    Total	0.00	0.06	27	0.00	0.07	26	0.00	0.10	27	0.00	0.10	28	0.00	0.11	28
+																
+  Overall Risk Indicators																
+  Available for Sale	21.77	13.32	83	17.07	13.72	69	19.89	13.74	81	18.99	13.14	82	12.48	13.22	51
+  Held to Maturity	15.22	1.85	94	18.44	2.29	97	19.79	2.31	97	21.48	2.50	97	23.83	2.54	96
+  Off Balance Sheet	33.39	23.43	82	33.58	24.04	81	35.33	25.41	80	33.59	25.14	79	33.88	24.74	79
+																
+  Unrealized Appreciation/Depreciation	0.81	0.08	97	0.76	0.09	97	0.39	0.04	97	0.44	0.06	97	0.31	0.04	96
+  Unrealized App/Dep % Tier 1 Cap	12.87	1.00	99	10.90	0.99	98	5.50	0.48	98	6.11	0.62	97	4.04	0.44	97
+																
+  Contractual Mat/Reprice Data																
+  Loans/Securities Over 3 Year	36.40	38.31	44	35.69	41.04	30	37.20	42.46	30	36.49	41.65	31	31.75	42.38	18
+  Liabilities Over 3 Year	0.00	0.85	8	0.00	0.92	7	0.11	0.99	11	0.11	0.98	8	0.13	0.96	8
+    Net Over 3 Year Position	36.40	37.10	48	35.69	39.73	34	37.08	41.17	33	36.37	40.31	34	31.62	41.07	19
+																
+  Loans/Securities Over 1 Year	44.46	54.89	18	41.50	53.25	17	42.98	54.30	16	43.33	53.38	19	39.51	54.02	15
+  Liabilities Over 1 Year	0.00	3.63	4	0.00	3.56	5	0.13	3.82	4	0.13	4.02	5	0.14	4.25	5
+    Net Over 1 Year Position	44.46	50.37	26	41.50	49.07	22	42.85	49.92	26	43.21	48.67	30	39.36	49.02	20
+																
+  Non-Maturity Deposits	81.94	70.24	90	77.62	65.98	85	80.87	65.40	94	82.56	64.92	95	81.79	64.18	96
+  Non-Maturity Deps % Long Assets	225.14	193.23	73	217.48	174.20	82	217.42	162.30	85	226.29	164.90	85	257.65	160.43	88
+    Net Over 3 Year Position	-45.55	-31.48	16	-41.93	-24.93	16	-43.67	-22.90	7	-46.08	-23.24	8	-50.05	-21.77	6
+																
+  As % Tier 1 Capital																
+  Structured Notes	0.00	0.04	83	0.00	0.08	82	0.00	0.10	83	0.00	0.13	81	0.00	0.16	80
+  Mortgage Servicing (FV)	0.00	0.49	33	0.00	0.56	34	0.00	0.70	35	0.00	0.70	35	0.00	0.68	36
+    Total	0.00	0.69	27	0.00	0.80	26	0.00	1.03	27	0.00	1.10	28	0.00	1.11	28
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Liquidity & Funding
+OCC Charter #  0			County:  SANTA CLARA			Liquidity & Funding--Page 10 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Percent of Total Deposits	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Individ, Partnerships, and Corp.	100.00	91.50	99	100.00	90.99	98	100.00	91.23	98	100.00	91.55	98	100.00	91.37	98
+  U.S. Govt, States & Political Sub in U.S.	0.00	6.64	8	0.00	6.95	10	0.00	6.99	7	0.00	6.76	8	0.00	6.91	8
+  Comml Banks & Other Dep Inst. in U.S.	0.00	0.53	8	0.00	0.48	12	0.00	0.41	10	0.00	0.42	11	0.00	0.48	10
+  Banks in Foreign Countries	0.00	0.00	83	0.00	0.01	82	0.00	0.00	82	0.00	0.01	80	0.00	0.01	81
+  Foreign Govts and Official Inst.	0.00	0.00	90	0.00	0.00	89	0.00	0.00	89	0.00	0.00	89	0.00	0.00	88
+    Total deposits	100.00	100.00	94	100.00	100.00	94	100.00	100.00	95	100.00	100.00	91	100.00	100.00	94
+																
+  Domestic Demand Deposits	5.21	12.61	26	7.00	9.49	39	6.35	9.35	36	6.17	8.89	36	6.83	8.72	41
+  Domestic Other Transaction Accts	0.00	2.62	24	0.01	2.12	26	0.01	2.23	24	0.01	2.18	25	0.00	2.37	23
+  Domestic Nontransaction Accts	85.87	83.16	44	84.14	87.62	23	83.55	87.59	24	85.50	88.07	27	84.45	88.07	25
+  Total Domestic Deposits	91.09	99.03	0	91.14	98.71	1	89.91	98.53	1	91.67	98.60	2	91.29	98.70	1
+  Deposits in Foreign Offices	8.91	0.06	98	8.86	0.07	98	10.09	0.08	98	8.33	0.10	97	8.71	0.09	98
+    Total Deposits	100.00	100.00	99	100.00	100.00	98	100.00	100.00	98	100.00	100.00	98	100.00	100.00	98
+																
+  Liquidity/Funding Ratios																
+  Net Non Core Fund Dep $250M	-9.27	5.68	12	-0.40	11.72	15	-2.23	12.07	9	-5.50	12.40	7	-10.04	13.39	5
+  Core Deposits	81.95	74.03	83	77.63	70.18	76	80.88	70.99	90	82.58	70.60	93	81.80	69.96	93
+  Short Term Non Core Funding	0.62	8.86	3	4.48	11.75	14	0.28	10.64	1	0.30	10.78	1	0.28	11.24	2
+  S.T Inv to S.T. Ncore Fund	2,533.58	135.16	98	272.22	75.99	89	3,989.37	56.90	98	4,065.76	58.83	98	5,675.49	56.91	98
+  S.T. Asset to S.T. Liabilities	6,273.43	242.31	97	924.83	168.28	93	13,840.22	150.67	98	12,800.85	152.90	98	14,759.21	144.02	98
+  Net S.T. Liabilities to Assets	-38.74	-8.17	7	-37.06	-4.05	8	-39.91	-2.80	3	-39.84	-2.86	3	-43.21	-2.29	3
+  Net Loans & Leases to Deposits	47.48	82.29	6	56.41	86.20	7	52.18	88.58	3	50.87	88.59	3	51.61	89.33	3
+  Net LN&LS to Core Deposits	52.17	92.45	5	61.94	98.32	7	58.06	99.62	4	55.52	100.20	4	56.56	101.54	4
+  Brkr Dep Mat < 1 Yr to Brkr Deps	N/A	85.35	N/A	N/A	83.68	N/A	N/A	80.84	N/A	N/A	83.86	N/A	N/A	83.89	N/A
+  Brokered Deposits to Deposits	0.00	4.25	9	0.00	5.14	10	0.00	4.51	7	0.00	4.76	7	0.00	5.14	7
+  Listing Service Dep to Deposits	0.00	0.16	57	0.00	0.14	59	0.00	0.15	58	0.00	0.12	59	0.00	0.12	60
+  List Service and Brkrd Dep to Deps	0.00	4.79	7	0.00	5.46	8	0.00	5.01	6	0.00	5.04	6	0.00	5.40	6
+  Sec Bor + sec FFP to Tot Bor + FFP	33.13	11.85	83	2.01	2.76	67	99.72	8.62	94	99.72	9.38	94	100.00	8.70	98
+  Recip Brkrd Dep to Tot Brkrd Dep	N/A	0.39	N/A	N/A	0.11	N/A	N/A	0.39	N/A	N/A	0.35	N/A	N/A	0.41	N/A
+																
+Total Deposits
+  Individ, Partnerships, and Corp.		76,081,804			62,759,487			62,943,752			60,432,256			55,948,589
+  U.S. Govt, States & Political Sub in U.S.		0			0			0			0			0
+  Comml Banks & Other Dep Inst. in U.S.		0			0			0			0			0
+  Banks in Foreign Countries		0			0			0			0			0
+  Foreign Govts and Official Inst.		0			0			0			0			0
+    Total Deposits		76,081,804			62,759,487			62,943,752			60,432,256			55,948,589
+						
+  Domestic Demand Deposits		3,965,107			4,391,568			3,998,803			3,728,380			3,823,339
+  Domestic Other Transaction Accts		2,020			4,094			4,439			5,379			2,244
+  Domestic Nontransaction Accts		65,335,217			52,805,201			52,591,906			51,667,021			47,247,986
+  Total Domestic Deposits		69,302,344			57,200,863			56,595,148			55,400,780			51,073,569
+  Deposits in Foreign Offices		6,779,460			5,558,624			6,348,604			5,031,476			4,875,020
+    Total Deposits		76,081,804			62,759,487			62,943,752			60,432,256			55,948,589
+						
+  Other Liquidity/Funding Data						
+  Non Core Liabilities $250M		6,993,648			8,738,063			6,479,604			5,162,005			5,010,064
+  Short Term Non Core Funding		521,985			3,300,045			195,233			202,501			176,382
+  Core Deposits		69,241,887			57,159,588			56,569,328			55,375,227			51,052,878
+  Time Deps $250M & Under Mat < 1 Yr		8,184			8,461			7,939			7,871			7,565
+  Time Deps $250M & Under Mat > 1 Yr		0			0			101			201			100
+  Time Deps over $250M Mat < 1 Yr		59,394			37,694			22,815			25,553			20,690
+  Time Deps over $250M Mat > 1 Yr		1,063			3,582			3,005			0			0
+  Fed Home Loan Bor Mat < 1 Yr		0			2,700,000			0			0			0
+  Fed Home Loan Bor Mat > 1 Yr		0			0			0			0			0
+  Other Borrowing Mat < 1 Year		153,731			63,163			18,185			20,258			25,781
+  Other Borrowing Mat > 1 Year		170,743			224,673			222,825			233,253			197,014
+  Secured Other Borrowings		50,924			63,162			104,884			104,682			114,354
+  Federal Funds Purchased		0			375,000			0			0			0
+  Secured Fed Funds Purchased		0			0			0			0			0
+  Listing Service Deposits		0			0			0			0			0
+  Brokered Deposits		0			0			0			0			0
+  Reciprocal Brokered Deposits		0			0			0			0			0
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Liquidity & Inv Portfolio
+OCC Charter #  0			County:  SANTA CLARA			Liquidity & Investment Portfolio--Page 10A 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Percent of Total Assets	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Short Term Investments	15.65	7.64	88	12.20	5.66	86	11.14	3.90	89	12.28	3.85	90	16.04	3.76	94
+  Marketable Equity Sec (MES)	0.00	0.02	42	0.00	0.02	42	0.00	0.02	44	0.00	0.02	56	0.00	0.02	56
+  Net LN&LS & SBLC to Assets	46.20	67.62	7	52.01	68.19	9	50.90	70.28	5	50.07	70.36	6	50.33	70.55	6
+  Pledged Assets	8.80	37.84	4	8.02	38.82	5	8.22	38.81	4	8.31	38.82	4	8.42	38.72	4
+																
+  Securities Mix																
+  % Total Securities																
+    US Treas & Govt Agencies	16.11	8.79	78	17.28	8.65	78	26.69	9.06	88	25.14	9.63	86	23.18	9.55	86
+    Municipal Securities	6.89	11.51	45	8.26	11.09	50	6.44	10.48	47	6.42	10.71	43	6.97	10.75	44
+    Pass-Through Mtg Backed Secs	43.97	29.81	77	44.40	29.95	72	40.14	31.87	66	42.46	31.07	68	39.85	31.21	67
+    CMO & REMIC Mtg Backed Secs	14.91	18.55	41	11.93	19.98	40	11.98	19.90	39	13.34	20.43	41	17.21	21.25	43
+    Commercial Mtg Back Secs	18.05	11.39	70	18.04	11.56	71	14.72	10.91	67	12.60	10.17	62	12.74	9.45	66
+    Asset Backed Securities	0.00	0.91	65	0.00	1.08	62	0.00	0.70	66	0.00	0.74	66	0.00	0.73	66
+    Structured Financial Products	0.00	0.13	82	0.00	0.20	79	0.00	0.24	79	0.00	0.17	81	0.00	0.16	81
+    Other Domestic Debt Secs	0.00	2.00	31	0.00	1.87	31	0.00	1.76	30	0.00	1.71	30	0.00	1.68	31
+    Foreign Debt Securities	0.07	0.03	87	0.08	0.04	86	0.03	0.04	83	0.03	0.04	82	0.04	0.08	80
+    Inv Mut Fnd & Oth Mktbl	0.00	0.24	41	0.00	0.22	42	0.00	0.21	43	0.01	0.20	52	0.01	0.19	53
+      Total	100.00	100.00	99	100.00	100.00	98	100.00	100.00	98	100.00	100.00	98	100.00	100.00	98
+																
+  Liquidity/Securities Ratios:																
+  App (Dep) Hi Risk & Struc/T1 Cap	0.00	0.00	88	0.00	0.00	89	0.00	0.00	88	0.00	0.00	86	0.00	0.00	88
+  App (Dep) in AFS sec to AFS Sec	3.66	3.01	72	5.03	2.66	96	0.87	1.00	48	1.33	1.31	48	1.27	0.90	68
+  App (Dep) in HTM Sec to HTM Sec	5.31	4.04	73	4.10	3.46	63	1.97	1.94	54	2.02	2.23	50	1.32	1.68	46
+  App (Dep) in HTM Sec to Eqy Cap	11.72	0.74	99	9.91	0.73	98	5.41	0.36	97	5.93	0.46	97	3.97	0.33	97
+  Pledged Securities to Tot Sec	14.79	38.78	14	12.08	37.04	17	11.31	34.49	18	11.62	35.80	17	12.95	36.98	18
+  Pledged Loans to Total Loans	7.65	44.86	7	7.64	45.37	8	7.87	45.64	6	7.78	45.24	7	7.94	44.60	7
+  Loans Held for Sale to Total Loans	0.00	0.64	16	0.00	0.62	16	0.00	0.64	16	0.00	0.76	15	0.00	0.61	17
+																
+Short Term Investments		13,224,929			8,983,451			7,788,572			8,233,210			10,010,548
+Short Term Assets		33,259,800			30,598,204			28,119,449			26,929,396			27,149,133
+Debt Securities 90+ Days P/D		0			0			0			0			0
+Total Non-Current Debt Sec		0			0			0			0			0
+Fair Value Structured Notes		0			0			0			0			0
+Pledged Securities		4,623,614			3,158,159			3,138,965			3,154,426			2,934,106
+Pledged Loans & Leases		2,808,004			2,746,961			2,609,279			2,415,953			2,317,954
+Loans Held for Sale		0			0			0			0			0
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Capital Analysis-a
+OCC Charter #  0			County:  SANTA CLARA			Capital Analysis--Page 11 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Capital Ratios	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Percent of Bank Equity:																
+    Net Loans & Leases (x)	6.21	5.91	61	6.30	5.68	66	6.52	5.47	75	6.25	5.45	72	5.85	5.48	65
+    Subord Notes & Debentures	0.00	1.20	68	0.00	1.10	70	0.00	1.09	69	0.00	0.86	71	0.00	0.83	73
+    Com RE & Related Ventures	4.86	189.07	7	5.46	181.86	8	6.92	177.83	6	5.85	175.80	6	5.64	176.17	6
+  Percent of Average Bank Equity:																
+    Net Income	11.76	4.72	87	11.20	4.03	84	21.47	10.57	96	21.86	10.89	96	22.64	11.07	96
+    Dividends	1.82	4.63	24	3.76	5.87	36	15.18	6.03	93	17.67	5.91	96	12.56	5.53	91
+    Retained Earnings	9.94	-1.05	92	7.45	-3.64	90	6.29	3.90	74	4.19	4.30	55	10.08	4.90	85
+  Other Capital Ratios:																
+    Dividends to Net Operating Income	15.48	80.75	19	33.53	127.59	23	70.71	59.33	57	80.83	56.92	70	55.48	52.46	52
+    Bank Eq Cap + Min Int to Assets	6.89	11.65	3	7.63	12.32	7	7.20	13.24	2	7.33	13.27	2	7.91	13.22	3
+  Growth Rates:																
+    Total Equity Capital	17.92	8.54	78	19.61	9.06	79	10.52	13.74	51	15.45	14.51	64	21.32	13.98	80
+    Equity Growth Less Asst Growth	-17.46	-13.29	27	-5.44	-5.31	39	-14.06	2.54	4	-1.62	3.43	23	8.00	4.35	71
+  Intang Assets % Bank Equity																
+    Mortgage Servicing Rights	0.00	0.37	34	0.00	0.41	35	0.00	0.49	36	0.00	0.49	36	0.00	0.47	37
+    Goodwill	0.00	17.24	14	0.00	18.62	15	0.00	20.47	10	0.00	20.58	10	0.00	20.54	10
+    Purch Credit Card Relations	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Other Intangibles	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Total Intangibles	0.00	19.20	6	0.00	20.69	8	0.00	22.74	6	0.00	22.90	6	0.00	22.80	6
+																
+  Leverage Ratio	6.9149	9.34	2	7.2111	9.83	4	7.2963	10.08	3	7.4785	10.13	3	8.1669	10.12	4
+																
+  Standardized Capital Ratios																
+    Com Equity Tier 1 Cap Ratio	11.0836	12.79	17	10.9030	12.55	20	11.1217	12.71	23	11.4799	12.69	28	12.4989	12.67	58
+    Tier 1 Capital Ratio	11.0836	12.86	15	10.9030	12.63	18	11.1217	12.79	20	11.4799	12.76	28	12.4989	12.74	58
+    Total Capital Ratio	12.2824	14.11	10	12.0384	13.71	17	11.9586	13.75	14	12.3629	13.70	31	13.4372	13.68	60
+																
+  Adv App Cap Ratios																
+    Com Equity Tier 1 Cap Ratio	N/A	53.78	N/A	N/A	44.88	N/A	N/A	44.77	N/A	N/A	45.23	N/A	N/A	43.43	N/A
+    Tier 1 Capital Ratio	N/A	53.78	N/A	N/A	44.88	N/A	N/A	44.77	N/A	N/A	45.23	N/A	N/A	43.43	N/A
+    Total Capital Ratio	N/A	54.70	N/A	N/A	45.66	N/A	N/A	45.36	N/A	N/A	45.83	N/A	N/A	44.05	N/A
+																
+End of Period Capital ($000)						
+  Perpetual Preferred		0			0			0			0			0
+   + Common Stock		4,750			4,750			4,750			4,750			4,750
+   + Surplus		1,461,328			1,453,903			1,442,680			1,428,838			1,413,263
+   + Retained Earnings		3,739,801			3,565,942			3,501,782			3,348,264			3,436,505
+   + Accum Other Comp Income		615,345			592,807			84,883			136,915			82,002
+   + Other Equity Capital Comp		0			0			0			0			0
+    Total Bank Equity Capital		5,821,224			5,617,402			5,034,095			4,918,767			4,936,520
+      Minority Interest Cons Subs		0			0			0			0			0
+    Total Bank Capital & Min Int		5,821,224			5,617,402			5,034,095			4,918,767			4,936,520
+						
+Subordinated Notes & Debentures		0			0			0			0			0
+						
+Changes in Bank Equity ($000)						
+  Balance at Beginning of Period		5,034,095			5,034,095			4,554,814			4,554,814			4,554,814
+   + Net Income		322,990			149,131			1,036,618			783,099			535,341
+   + Sales or Purchase of Capital		18,649			11,224			38,836			24,995			9,420
+   + Merger & Absorptions		0			0			0			0			0
+   + Restate due to Acctg Error&Chg		-34,971			-34,971			-583			-583			-583
+   + Trans with Parent		0			0			0			0			0
+   - Dividends		50,000			50,000			733,000			633,000			297,000
+   + Other Comprehensive Income		530,461			507,923			137,410			189,442			134,528
+    Balance at End of Period		5,821,224			5,617,402			5,034,095			4,918,767			4,936,520
+						
+Intangible Assets						
+  Mortgage Servicing Rights		0			0			0			0			0
+   + Purch Credit Card Relations.		N/A			N/A			N/A			N/A			N/A
+   + Other Intangibles		N/A			N/A			N/A			N/A			N/A
+   + Goodwill		0			0			0			0			0
+    Total Intangibles		0			0			0			0			0
+						
+Total Assets for Leverage Ratio:						
+  Average Total Consolidated Assets		76,677,808			70,820,634			67,834,187			63,854,825			59,413,401
+  Less: Ded from CET1 Cap & add T1C		0			0			0			0			0
+  Less: Other Deductions		0			0			0			0			0
+  Total Assets for Leverage Ratio		76,677,808			70,820,634			67,834,187			63,854,825			59,413,401
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Capital Analysis-b
+OCC Charter #  0			County:  SANTA CLARA			Capital Analysis--Page 11A 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Capital Analysis ($000)
+  Common Equity Tier 1 Capital: ($000)						
+  Common Stock Plus Related Surplus		1,466,078			1,458,653			1,447,430			1,433,588			1,418,013
+  Retained Earnings		3,841,891			3,654,146			3,501,782			3,348,264			3,436,505
+  Accum Other Comprehensive Inc (AOCI)		615,345			592,807			84,883			136,915			82,002
+  Common Equity T1 Minority Interest		0			0			0			0			0
+  Common Equity T1 Cap Before Adj/Ded		5,923,314			5,705,606			5,034,095			4,918,767			4,936,520
+						
+  Common Equity Tier 1 Capital: Adj/Ded						
+    Less: Goodwill		0			0			0			0			0
+    Less: Intangible Assets		0			0			0			0			0
+    Less: DTA (NOL & Tax Credit Only)		0			0			0			0			0
+    AOCI-Related Adjustments-Opt Out		621,144			598,642			84,702			143,367			84,298
+    AOCI-Related Adjustments-No Opt Out		N/A			N/A			N/A			N/A			N/A
+    Oth Ded (add) CET1 bef threshold ded		0			0			0			0			0
+    Less: Non-significant Investments		N/A			N/A			0			0			0
+  Subtotal before Threshold Limits		5,302,170			5,106,964			4,949,393			4,775,400			4,852,222
+    Less: Sig Inv, MSAs, DTA > 10% Limit		N/A			N/A			0			0			0
+    Less: Sig Inv, MSAs, DTA > 15% Limit		N/A			N/A			0			0			0
+      Less: Tot Sig Inv, MSAs, DTA  > Limit		0			0			0			0			0
+    Less: Ded due to insuff T1 and T2 Cap		0			0			0			0			0
+    Total Adj and Ded for CET1 Capital		0			0			0			0			0
+  Common Equity Tier 1 Capital		5,302,170			5,106,964			4,949,393			4,775,400			4,852,222
+						
+  Additional Tier 1 Capital:						
+    Additional T1C Inst & Related Surplus		0			0			0			0			0
+    Non-qualifying Cap Inst sub to phaseout		0			0			0			0			0
+    Tier 1 Minority Int Not Incl in CET1 Cap		0			0			0			0			0
+    Additional T1 Cap Before Deductions		0			0			0			0			0
+    Less: Additional T1 Cap Deductions		0			0			0			0			0
+  Additional Tier 1 Capital		0			0			0			0			0
+						
+  Tier 1 Capital		5,302,170			5,106,964			4,949,393			4,775,400			4,852,222
+						
+  Tier 2 Capital:						
+    T2 Cap Instruments & Related Surplus		0			0			0			0			0
+    Non-qualifying Capital Instruments		0			0			0			0			0
+    Tot Cap Min Int Not Incl in T1 Cap		0			0			0			0			0
+    ALLL in Tier 2 Capital		573,492			531,831			372,457			367,319			364,282
+    Exited Adv App Eligible Cr Reserves		N/A			N/A			N/A			N/A			N/A
+    Unrealized Gains on AFS Pref Stock		N/A			N/A			N/A			N/A			N/A
+  Tier 2 Capital Before Deductions		573,492			531,831			372,457			367,319			364,282
+  Exited Adv App T2C Before Deductions		N/A			N/A			N/A			N/A			N/A
+  Less: Tier 2 Capital Deductions		0			0			0			0			0
+						
+  Tier 2 Capital - Standardized Approaches		573,492			531,831			372,457			367,319			364,282
+  Tier 2 Capital - Advanced Approaches		N/A			N/A			N/A			N/A			N/A
+  Total Capital - Standardized Approaches		5,875,662			5,638,795			5,321,850			5,142,719			5,216,504
+  Total Capital - Advanced Approaches		N/A			N/A			N/A			N/A			N/A
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Capital Analysis-c
+OCC Charter #  0			County:  SANTA CLARA			Capital Analysis--Page 11B 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Risk Weighted Assets
+  On BS Assets and Securitization Exp						
+    2% Category		0			0			0			0			0
+    4% Category		0			0			0			0			0
+    20% Category		4,339,969			3,382,746			3,443,819			3,345,053			2,757,979
+    50% Category		1,678,207			1,614,018			1,565,219			1,469,988			1,366,220
+    100% Category		32,717,740			33,864,221			31,309,789			29,281,199			27,602,783
+    150% Category		5,459			3,332			2,435			6,189			2,199
+    250% Category		1,085			1,060			N/A			N/A			N/A
+    300% Category		0			0			0			0			0
+    400% Category		0			0			0			0			0
+    600% Category		0			0			0			0			0
+    1250% Category		0			0			0			0			0
+  Other Risk-Weighting App Categories		0			0			0			0			0
+  Tot RWA Securitization Exp SSFA Mthd		0			0			0			0			0
+  Total RWA Securitization Exp Gross-Up		0			0			0			0			0
+  On-Balance Sheet Risk Weighted Assets		38,742,459			38,865,377			36,321,261			34,102,429			31,729,181
+  Memo - 0% Category - $		24,833,589			17,878,904			17,176,456			17,017,582			17,569,545
+						
+  Off BS/Oth Items Subj to Risk Weighting						
+    2% Category		0			0			0			0			0
+    4% Category		0			0			0			0			0
+    10% Category		0			0			0			0			0
+    20% Category		422,429			469,291			401,145			412,868			342,668
+    50% Category		0			0			0			0			0
+    100% Category		8,673,292			7,505,283			7,779,743			7,082,662			6,749,395
+    150% Category		0			0			0			0			0
+    625% Category		0			0			0			0			0
+    937.5% Category		0			0			0			0			0
+    1250% Category		0			0			0			0			0
+    1250% Category Securitization Exp		0			0			0			0			0
+  Oth Risk-Weighting App Categories		0			0			0			0			0
+  Tot RWA Securitization Exp SSFA Mthd		0			0			0			0			0
+  Total RWA Securitization Exp Gross-Up		0			0			0			0			0
+  Tot Deriv, Off-BS and Oth - Risk Wght		9,095,721			7,974,574			8,180,888			7,495,530			7,092,063
+  Memo - 0% Category - $		310,923			236,301			249,517			280,984			240,728
+						
+  Standardized Market Risk Weighted Assets		0			0			0			0			0
+						
+  Risk-Weighted Asset Before Ded		47,838,181			46,839,951			44,502,150			41,597,959			38,821,244
+   - Excess Allowable LN&LS Loss		0			0			0			0			0
+   - Allocated Transfer Risk Reserve		0			0			0			0			0
+  Total Risk Weighted Assets		47,838,181			46,839,951			44,502,150			41,597,959			38,821,244
+						
+  Current Credit Exposure All Derivatives		269,348			319,815			167,341			188,864			133,460
+						
+  Derivatives Notional Prin Amounts						
+  OTC Contracts Total		15,938,821			14,815,060			11,716,968			9,988,896			8,573,793
+    Interest Rate		882,648			759,253			1,299,684			1,235,808			1,158,487
+    All Other		15,056,173			14,055,807			10,417,284			8,753,088			7,415,306
+  Centrally Clreared Contracts Total		0			0			4,995,000			3,995,000			0
+    Interest Rate		0			0			4,995,000			3,995,000			0
+    All Other		0			0			0			0			0
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Capital Analysis-d
+OCC Charter #  0			County:  SANTA CLARA			Capital Analysis--Page 11C 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Risk Based Capital ($000)
+  Tier 1 Capital						
+    Total Equity Capital Adjusted		N/A			N/A			N/A			N/A			N/A
+   - Ineligible Def Tax Assets		0			0			0			0			0
+   - Ineligible Intangibles		0			0			0			0			0
+   - Cumul Change F.V. Financial Liab		N/A			N/A			N/A			N/A			N/A
+    Net Tier 1		5,302,170			5,106,964			4,949,393			4,775,400			4,852,222
+						
+  Tier 2 Capital						
+   + Qualif Debt and Redeem Pfd		N/A			N/A			N/A			N/A			N/A
+   + Cumulative Preferred Stock		N/A			N/A			N/A			N/A			N/A
+   + Allowable LN&LS Loss Allow		573,492			531,831			372,457			367,319			364,282
+   + Unrl Gain Mktbl Eqy Sec (45%)		N/A			N/A			N/A			N/A			N/A
+   + Other Tier 2 Capital Comp		N/A			N/A			N/A			N/A			N/A
+    Net Eligible Tier 2		573,492			531,831			372,457			367,319			364,282
+						
+  Total RBC Before Deductions						
+    Tier 1 & Tier 2		5,875,662			5,638,795			5,321,850			5,142,719			5,216,504
+    Tier 3 & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+   - Deductions for Total RBC		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Based-Capital		5,875,662			5,638,795			5,321,850			5,142,719			5,216,504
+						
+  Risk-Weighted Assets						
+  On-Balance Sheet						
+    Category Two - 20%		4,339,969			3,382,746			3,443,819			3,345,053			2,757,979
+    Category Three - 50%		1,678,207			1,614,018			1,565,219			1,469,988			1,366,220
+    Category Four - 100%		32,717,740			33,864,221			31,309,789			29,281,199			27,602,783
+      Total On-Balance Sheet		38,742,459			38,865,377			36,321,261			34,102,429			31,729,181
+    Memo: Category One - 0%		24,833,589			17,878,904			17,176,456			17,017,582			17,569,545
+						
+  Off-Balance Sheet						
+    Category Two - 20%		422,429			469,291			401,145			412,868			342,668
+    Category Three - 50%		0			0			0			0			0
+    Category Four - 100%		8,673,292			7,505,283			7,779,743			7,082,662			6,749,395
+      Total Off-Balance Sheet		9,095,721			7,974,574			8,180,888			7,495,530			7,092,063
+    Memo: Category One - 0%		310,923			236,301			249,517			280,984			240,728
+						
+  Adjustments to Risk-Wgt Assets						
+  Risk-Weighted Asset Before Ded		47,838,181			46,839,951			44,502,150			41,597,959			38,821,244
+     - Excess Allowable LN&LS Loss Al		0			0			0			0			0
+     - Allocated Transfer Risk Reserve		0			0			0			0			0
+   + Mkt Risk Asset & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Weighted Assets		47,838,181			46,839,951			44,502,150			41,597,959			38,821,244
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Income Statement 1-Qtr-Ann
+OCC Charter #  0			County:  SANTA CLARA			One Quarter Annualized Income Analysis--Page 12 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+Earnings and Profitability	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Percent of Average Assets:																
+    Interest Income (TE)	2.75	3.27	16	3.22	3.76	12	3.49	3.93	15	3.67	4.10	16	3.96	4.17	30
+     - Interest Expense	0.03	0.37	1	0.23	0.65	7	0.28	0.73	9	0.35	0.83	8	0.33	0.84	6
+      Net Interest Income (TE)	2.72	2.87	35	3.00	3.11	39	3.20	3.19	50	3.32	3.28	51	3.63	3.33	72
+     + Noninterest Income	0.72	0.81	51	0.97	0.81	64	1.03	0.86	67	1.04	0.89	63	1.09	0.85	76
+     - Noninterest Expense	1.90	2.12	37	1.74	2.47	26	2.13	2.28	42	1.95	2.28	32	2.06	2.26	38
+      Pre-Provision Net Revenue (TE)	1.54	1.65	45	2.22	1.54	85	2.11	1.82	75	2.41	1.93	82	2.66	1.96	88
+     - Provision: Loan & Lease Losses	0.27	0.71	14	1.41	0.87	78	0.08	0.12	41	0.23	0.12	82	0.13	0.12	61
+     - Provision: Credit Loss Oth Assets	0.00	0.00	13	0.00	0.01	75	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+      Pretax Operating Income (TE)	1.27	0.90	74	0.82	0.63	46	2.03	1.68	77	2.18	1.79	81	2.53	1.84	87
+     + Realized Gains/Losses Sec	0.00	0.01	44	0.35	0.03	95	0.00	0.00	54	0.00	0.01	48	0.00	0.01	14
+     + Unrealized Gains / Losses Equity Sec	0.00	0.00	54	0.00	0.00	73	0.00	0.00	20	0.00	0.00	58	0.00	0.00	58
+    Pretax Net Operating Income (TE)	1.27	0.93	72	1.16	0.68	65	2.03	1.69	76	2.18	1.82	78	2.53	1.86	87
+      Net Operating Income	0.91	0.72	62	0.84	0.51	60	1.49	1.31	71	1.55	1.40	67	1.83	1.42	88
+    Net Inc Attrib Min Ints	0.00	0.00	89	0.00	0.00	87	0.00	0.00	86	0.00	0.00	85	0.00	0.00	81
+    Net Income Adjusted Sub S	0.91	0.72	63	0.84	0.51	60	1.49	1.31	71	1.55	1.40	67	1.83	1.43	87
+      Net Income	0.91	0.72	63	0.84	0.51	60	1.49	1.31	71	1.55	1.40	67	1.83	1.43	87
+																
+  Margin Analysis:																
+  Int Inc (TE) to Avg Earn Assets	2.81	3.54	11	3.32	4.10	10	3.60	4.29	10	3.75	4.48	8	4.04	4.55	15
+  Int Expense to Avg Earn Assets	0.03	0.40	1	0.23	0.70	7	0.29	0.80	9	0.35	0.90	8	0.33	0.92	5
+  Net Int Inc-TE to Avg Earn Assets	2.78	3.11	26	3.09	3.39	31	3.31	3.50	40	3.39	3.59	36	3.71	3.64	54
+																
+  Loan & Lease Analysis:																
+  Net Loss to Average Total LN&LS	0.12	0.23	43	0.35	0.22	77	0.18	0.17	69	0.44	0.17	85	0.23	0.13	77
+  Earnings Coverage of Net Loss (X)	26.52	20.15	72	13.38	16.57	52	24.56	32.70	61	11.61	18.77	42	23.62	52.00	51
+  LN&LS Allowance to Net Losses (X)	13.42	10.51	71	4.71	9.36	39	5.28	7.65	55	2.31	4.52	32	4.54	9.01	39
+																
+  Capitalization																
+  Cash Dividends to Net Income	0.00	37.87	42	33.53	113.25	34	39.44	59.20	35	135.62	59.88	91	47.78	50.77	46
+  Retain Earns to Avg Total Equity	12.16	2.68	92	7.45	-3.64	90	12.34	3.24	93	-7.16	3.92	4	11.80	5.17	89
+																
+  Yield on or Cost of:																
+  Total Loan & Leases (TE)	4.00	4.12	44	4.54	4.64	48	4.96	4.83	62	5.28	5.01	72	5.63	5.07	81
+    Loans in Domestic Offices	4.04	4.10	50	4.62	4.63	54	5.02	4.81	64	5.38	5.00	78	5.66	5.06	82
+      Real Estate	3.16	4.03	7	3.43	4.47	8	3.42	4.63	6	3.45	4.82	4	3.49	4.87	6
+        Secured by 1-4 Fam Resi Prop	2.91	4.00	4	3.03	4.27	2	3.07	4.38	3	3.10	4.54	2	3.18	4.65	2
+        All Other Loans Sec Real Estate	4.00	4.06	45	4.68	4.60	55	4.51	4.82	29	4.50	5.05	16	4.39	5.08	13
+      Commercial & Industrial	5.81	3.97	93	6.18	4.80	92	6.69	5.22	92	6.86	5.38	93	7.23	5.56	92
+      Individual	3.96	5.26	23	4.75	5.54	39	5.06	5.97	44	5.26	5.96	46	5.33	6.04	49
+        Credit Card	19.86	10.15	90	12.12	10.12	67	11.04	10.35	56	12.57	9.94	65	12.70	9.35	74
+      Agricultural	3.31	4.35	25	4.39	4.59	30	-28.67	4.83	1	4.56	5.01	22	4.67	5.41	19
+    Loans in Foreign Offices	3.62	4.64	27	3.86	5.07	9	4.37	5.25	36	4.21	5.17	18	5.35	5.42	63
+  Total Investment Securities (TE)	2.48	2.39	59	2.51	2.60	39	2.60	2.66	44	2.60	2.74	36	2.56	2.79	31
+  Total Investment Securities (Book)	2.42	2.31	60	2.46	2.53	40	2.55	2.57	47	2.56	2.65	42	2.52	2.71	34
+    US Treas & Agency (Excl MBS)	2.15	1.58	73	2.11	2.01	53	2.10	2.14	46	2.10	2.31	31	2.08	2.37	28
+    Mortgage Backed Securities	2.46	2.25	73	2.58	2.50	58	2.72	2.53	75	2.71	2.60	64	2.66	2.68	47
+    All Other Securities	2.53	2.89	35	2.50	3.03	18	2.55	3.21	17	2.69	3.22	21	2.76	3.19	24
+  Interest-Bearing Bank Balances	0.08	0.12	10	0.97	1.19	23	1.35	1.64	12	1.61	2.19	9	1.96	2.27	18
+  Federal Funds Sold & Resales	0.04	0.24	44	1.21	1.22	46	1.60	1.52	42	2.27	2.20	46	2.56	2.28	68
+																
+  Total Interest Bearing Deposits	0.04	0.43	3	0.26	0.76	10	0.34	0.87	13	0.42	0.98	10	0.39	0.98	9
+    Transaction accounts	0.39	0.29	74	0.08	0.76	5	0.08	0.96	3	0.12	1.02	5	0.08	1.09	5
+    Other Savings Deposits	0.03	0.23	10	0.25	0.52	25	0.32	0.60	26	0.40	0.70	23	0.36	0.70	20
+    Time Deposits	1.58	1.44	63	1.69	1.74	43	1.39	1.86	10	1.03	1.96	5	0.27	1.91	1
+    Foreign Office Deposits	0.06	0.43	30	0.42	0.82	20	0.60	0.70	36	0.69	1.12	45	0.71	1.00	54
+																
+  Federal Funds Purchased & Repos	0.15	0.32	36	1.59	0.87	88	N/A	1.08	N/A	N/A	1.30	N/A	2.54	1.61	83
+  Other Borrowed Money	0.32	1.32	7	0.83	1.90	3	0.25	2.10	5	0.43	2.35	5	1.29	2.42	7
+  Subord Notes & Debentures	N/A	4.45	N/A	N/A	4.75	N/A	N/A	5.04	N/A	N/A	5.58	N/A	N/A	5.31	N/A
+  Other Interest Expense	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+  All Interest-Bearing Funds	0.04	0.48	1	0.28	0.84	7	0.34	0.96	8	0.42	1.09	7	0.39	1.11	4
+																
+  Memo: Interest on Time Dep Over Ins Limit	1.67	1.49	55	1.96	1.84	58	1.37	1.90	16	1.04	2.07	5	0.10	2.01	2
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Securitization & Asset Sale-a
+OCC Charter #  0			County:  SANTA CLARA			Securitization & Asset Sale Activities--Page 13 						04/15/2023 04:36:11 PM
+Public Report
+
+																	Percent Change															
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019			1 Quarter			1 Year
+Securitization Activities		0			0			0			0			0			N/A			N/A
+  1-4 Family Residential Loans		0			0			0			0			0			N/A			N/A
+  Home Equity Lines		0			0			0			0			0			N/A			N/A
+  Credit Card Receivables		0			0			0			0			0			N/A			N/A
+  Auto Loans		0			0			0			0			0			N/A			N/A
+  Commercial & Industrial Loans		0			0			0			0			0			N/A			N/A
+  All Other Loans and Leases		0			0			0			0			0			N/A			N/A
+								
+Retained Interest-Only Strips		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Auto Loans		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+								
+Retained Credit Enhancements		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Auto Loans		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+								
+Unused Liquidity Commitments		0			0			0			0			0			N/A			N/A
+								
+Sellers Interest in Secs & Loans		0			0			0			0			0			N/A			N/A
+  Home Equity Lines		0			0			0			0			0			N/A			N/A
+  Credit Card Receivables		0			0			0			0			0			N/A			N/A
+  Commercial & Industrial Loans		0			0			0			0			0			N/A			N/A
+								
+Total Retained Credit Exposure		0			0			0			0			0			N/A			N/A
+								
+Asset Backed Comml Paper Conduits		0			0			0			0			0			N/A			N/A
+  CR Exp Spons by Bank & Other		0			0			0			0			0			N/A			N/A
+  Liquid Comm by Bank & Other		0			0			0			0			0			N/A			N/A
+								
+Activity % Total Assets						
+Securitization Activities		0.00			0.00			0.00			0.00			0.00
+  1-4 Family Residential Loans		0.00			0.00			0.00			0.00			0.00
+  Home Equity Lines		0.00			0.00			0.00			0.00			0.00
+  Credit Card Receivables		0.00			0.00			0.00			0.00			0.00
+  Auto Loans		0.00			0.00			0.00			0.00			0.00
+  Commercial & Industrial Loans		0.00			0.00			0.00			0.00			0.00
+  All Other Loans and Leases		0.00			0.00			0.00			0.00			0.00
+  Asset Backed Comml Paper Conduits		0.00			0.00			0.00			0.00			0.00
+  Cr Exp Spons by Bank & Other		0.00			0.00			0.00			0.00			0.00
+  Liquid Comm by Bank & Other		0.00			0.00			0.00			0.00			0.00
+						
+Percent of Tot Managed Assets on						
+Balance Sheet & Sec Assets						
+  1-4 Family Residential Loans		9.24			8.93			9.41			9.43			9.32
+  Home Equity Lines		0.23			0.24			0.17			0.17			0.20
+  Credit Card Receivables		0.00			0.00			0.00			0.00			0.00
+  Auto Loans		0.16			0.18			0.21			0.24			0.24
+  Commercial & Industrial Loans		39.31			36.54			34.26			35.54			37.61
+  All Other Loans and Leases		51.06			54.10			55.95			54.61			52.63
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Securitization & Asset Sale-b
+OCC Charter #  0			County:  SANTA CLARA			Securitization & Asset Sale Activities--Page 13A 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+% Tot Securitization Act by Type						
+Retained Int Only Strips		N/A			N/A			N/A			N/A			N/A
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A
+  Auto Loans		N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A
+						
+Retained Credit Enhancement		N/A			N/A			N/A			N/A			N/A
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A
+  Auto Loans		N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A
+						
+Unused Comm to Provide Liquidity		N/A			N/A			N/A			N/A			N/A
+Sellers Int in Secs & LNS % Trust		N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A
+						
+Percent of Tier 1 Capital						
+Total Retained Credit Exposure		0.00			0.00			0.00			0.00			0.00
+  Retained Interest-Only Strips		N/A			N/A			N/A			N/A			N/A
+  Retained Credit Enhancements		N/A			N/A			N/A			N/A			N/A
+						
+30-89 Day PD Securitized Assets						
+  1-4 Family Residential Loans		0			0			0			0			0
+  Home Equity Lines		0			0			0			0			0
+  Credit Card Receivables		0			0			0			0			0
+  Auto Loans		0			0			0			0			0
+  Commercial & Industrial Loans		0			0			0			0			0
+  All Other Loans and Leases		0			0			0			0			0
+    Total 30-89 Day PD Secur Assets		0			0			0			0			0
+						
+90+ Days PD Securitized Assets						
+  1-4 Family Residential Loans		0			0			0			0			0
+  Home Equity Lines		0			0			0			0			0
+  Credit Card Receivables		0			0			0			0			0
+  Auto Loans		0			0			0			0			0
+  Commercial & Industrial Loans		0			0			0			0			0
+  All Other Loans and Leases		0			0			0			0			0
+    Total 90+ Days PD Secur Assets		0			0			0			0			0
+						
+Total Past Due Securitized Assets		0			0			0			0			0
+						
+Net Losses Securitized Assets						
+  1-4 Family Residential Loans		0			0			0			0			0
+  Home Equity Lines		0			0			0			0			0
+  Credit Card Receivables		0			0			0			0			0
+  Auto Loans		0			0			0			0			0
+  Commercial & Industrial Loans		0			0			0			0			0
+  All Other Loans and Leases		0			0			0			0			0
+    Total Net Charge Off Secur Asset		0			0			0			0			0
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Securitization & Asset Sale-c
+OCC Charter #  0			County:  SANTA CLARA			Securitization & Asset Sale Activities--Page 13B 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019			09/30/2019			06/30/2019
+30-89 Day PD Securitized Assets %						
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A
+  Auto Loans		N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A
+    Total 30-89 Days PD Secur Asset		N/A			N/A			N/A			N/A			N/A
+						
+90+ Day PD Securitized Assets %						
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A
+  Auto Loans		N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A
+    Total 90+ Day PD Secur Asset		N/A			N/A			N/A			N/A			N/A
+						
+Total PD Securitized Asets %		N/A			N/A			N/A			N/A			N/A
+						
+Net Losses on Securitized Assets%						
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A
+  Auto Loans		N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A
+    Net Losses on Securitized Assets		N/A			N/A			N/A			N/A			N/A
+						
+30-89 DAY PD managed assets %						
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A
+    Total 30-89 Day PD Manage Asset		N/A			N/A			N/A			N/A			N/A
+						
+90+ DAY PD MANAGED ASSETS %						
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A
+    Total 90+ Day PD Manage Asset		N/A			N/A			N/A			N/A			N/A
+						
+Total Past Due Managed Assets %		N/A			N/A			N/A			N/A			N/A
+						
+Net Losses on Managed Assets %						
+  1-4 Family Residential Loans		N/A			N/A			N/A			N/A			N/A
+  Home Equity Lines		N/A			N/A			N/A			N/A			N/A
+  Credit Card Receivables		N/A			N/A			N/A			N/A			N/A
+  Commercial & Industrial Loans		N/A			N/A			N/A			N/A			N/A
+  All Other Loans and Leases		N/A			N/A			N/A			N/A			N/A
+    Net Losses on Managed Assets		N/A			N/A			N/A			N/A			N/A
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Fiduciary Services-a
+OCC Charter #  0			County:  SANTA CLARA			Fiduciary & Related Services--Page 1 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020			03/31/2020			12/31/2019
+Total Fiduciary and Related Assets	'($000)'	%Total	%MGD	'($000)'	%Total	%MGD	'($000)'	%Total	 %Change
+  Personal Trust and Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Employee Benefit DC	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Employee Benefit DB	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Other EB & Retirement-Related	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Corporate Trust and Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Inv Mgmt & Inv Advisory Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Foundation & Endowment Trust & Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Other Fiduciary	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+    Total Fiduciary Assets	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Custody and Safekeeping	N/A			N/A			N/A		N/A
+  Memo: Accts in Foreign Offices	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Memo: IRA, HSA & Other	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+											
+Total Fiduciary and Related Accounts	(#)	%Total	%MGD	(#)	%Total	%MGD	(#)	%Total	 %Change
+  Personal Trust and Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Employee Benefit DC	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Employee Benefit DB	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Other EB & Retirement-Related	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Corporate Trust and Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Inv Mgmt & Inv Advisory Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Foundation & Endowment Trust & Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Other Fiduciary	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+    Total Number of Accounts	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Custody and Safekeeping	N/A			N/A			N/A		N/A
+  Memo: Accts in Foreign Offices	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+  Memo: IRA, HSA & Other	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/AN/A
+											
+Fiduciary and Related Services Income	'($000)'	%FID IN	%Change	'($000)'	%FID IN	%Change	'($000)'	%FID IN	%Change
+  Personal Trust and Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Employee Benefit DC	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Employee Benefit DB	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Other EB & Retirement-Related	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Corporate Trust and Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Inv Mgmt & Inv Advisory Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Foundation & Endowment Trust & Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Other Fiduciary	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Custody and Safekeeping	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Other Related Services	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+    Gross Fiduciary and Related Income	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Less: Expenses	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Less:Net Losses	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Plus: Intra-company Credits	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+    Net Fiduciary and Related Income	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Memo: Fiduciary Income - Foreign	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Gross Fiduciary Income % Nonint Inc		N/A			N/A			N/A	
+										
+Fiduciary Income % Fiduciary Assets	Bank		PCT	Bank		PCT	Bank		PCT
+  Personal Trust and Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Employee Benefit DC	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Employee Benefit DB	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Other EB & Retirement-Related	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Corporate Trust and Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Inv Mgmt & Inv Advisory Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Other Fiduciary	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+    Total Fiduciary Assets	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Custody and Safekeeping	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Memo: Fiduciary Income Foreign	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+										
+Collective/Common Trust Fund Assets	'($000)'	%Total	%Change	'($000)'	%Total	%Change	'($000)'	%Total	%Change
+  Domestic Equity	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  International/Global Equity	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Stock/Bond Blend	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Taxable Bond	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Municipal Bond	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Short Term/Money Market	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Specialty/Other	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+    Total Trust Funds	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+										
+Collective/Common Trust Fund Accounts	(#)	%Total	%Change	(#)	%Total	%Change	(#)	%Total	%Change
+  Domestic Equity	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  International/Global Equity	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Stock/Bond Blend	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Taxable Bond	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Municipal Bond	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Short Term/Money Market	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Specialty/Other	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+    Total Trust Funds	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+										
+Peer Group Descriptions for Fiduciary & Related Services:	Peer Number
+Trust Assets between $1 billion and $10 billion 	TRST303	
+
+
+
+
+FDIC Certificate # 24735			FRB District/ID_RSSD 12 / 802866			SILICON VALLEY BANK			 SANTA CLARA, CA			Fiduciary Services-b
+OCC Charter #  0			County:  SANTA CLARA			Fiduciary & Related Services--Page 1A 						04/15/2023 04:36:11 PM
+Public Report
+
+		06/30/2020				03/31/2020				12/31/2019
+Gross Fiduciary Losses - Managed	'($000)'	%Rev		PCT	'($000)'	%Rev		PCT	'($000)'	%Rev		PCT
+  Personal Trust and Agency	N/A	N/A	0.61	N/A	N/A	N/A	0.80	N/A	N/A	N/A	0.24	N/A
+  EB & Retirement Related Trust & Agency	N/A	N/A	0.00	N/A	N/A	N/A	0.00	N/A	N/A	N/A	0.04	N/A
+  Inv Mgmt & Inv Advisory Agency	N/A	N/A	0.00	N/A	N/A	N/A	0.00	N/A	N/A	N/A	0.11	N/A
+  Other Fiduciary	N/A	N/A	0.00	N/A	N/A	N/A	0.00	N/A	N/A	N/A	0.85	N/A
+    Total Gross Managed Losses	N/A	N/A	0.20	N/A	N/A	N/A	0.27	N/A	N/A	N/A	0.22	N/A
+													
+  Gross Fiduciary Losses - Non Managed													
+  Personal Trust and Agency	N/A	N/A	0.00	N/A	N/A	N/A	0.00	N/A	N/A	N/A	0.02	N/A
+  EB & Retirement Related Trust & Agency	N/A	N/A	0.19	N/A	N/A	N/A	0.02	N/A	N/A	N/A	0.03	N/A
+  Inv Mgmt & Inv Advisory Agency	N/A	N/A	0.00	N/A	N/A	N/A	0.00	N/A	N/A	N/A	0.01	N/A
+  Other Fiduciary	N/A	N/A	0.00	N/A	N/A	N/A	0.00	N/A	N/A	N/A	0.12	N/A
+    Total Gross Non Managed Losses	N/A	N/A	0.08	N/A	N/A	N/A	0.01	N/A	N/A	N/A	0.03	N/A
+													
+  Net Fiduciary Losses - ALL													
+  Personal Trust and Agency	N/A	N/A	0.59	N/A	N/A	N/A	0.75	N/A	N/A	N/A	0.23	N/A
+  EB & Retirement Related Trust & Agency	N/A	N/A	0.19	N/A	N/A	N/A	0.00	N/A	N/A	N/A	0.07	N/A
+  Inv Mgmt & Inv Advisory Agency	N/A	N/A	0.00	N/A	N/A	N/A	0.00	N/A	N/A	N/A	0.10	N/A
+  Other Fiduciary	N/A	N/A	0.00	N/A	N/A	N/A	0.00	N/A	N/A	N/A	0.28	N/A
+    Total Net Losses	N/A	N/A	0.27	N/A	N/A	N/A	0.26	N/A	N/A	N/A	0.19	N/A
+													
+Corporate Trust and Agency	'($000)'	#ISS	%Change	'($000)'	#ISS	%Change	'($000)'	#ISS	%Change
+  Corporate and Muni Trusteeships	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+    Issues in Default	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  All Other Corporate		N/A	N/A		N/A	N/A		N/A	N/A
+										
+Managed Assets in Fiduciary Accts	'($000)'	%Total	%Change	'($000)'	%Total	%Change	'($000)'	%Total	%Change
+  Noninterest-Bearing Deposits	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Interest-Bearing Deposits	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  U.S. Treasury & Agency	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  State, County & Municipal	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Money Market Mutual Funds	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Equity Mutual Funds	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Other Mutual Funds	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Common & Collective Funds	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Other Short-Term Obligations	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Other Notes and Bonds	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Unregistered Funds & Private Equity	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Other Common & Preferred Stocks	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Real Estate Mortgages	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Real Estate	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+  Miscellaneous Assets	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+    Total Managed Assets	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+										
+  Memo: Fiduciary Assets in Advised or Sponsored Mutual Funds	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Peer Group Descriptions for Fiduciary & Related Services:	Peer Number
+Trust Assets between $1 billion and $10 billion 	TRST303	
+
