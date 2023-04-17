@@ -1,0 +1,94 @@
+---
+title: "Untitled"
+author: "xyz`"
+date: "2023-04-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readxl)
+library(tidyr)
+library(tidyverse)
+library(dplyr)
+```
+
+```{r}
+transforamtions_on_excel <- function(data, bank_flag){
+  df <- data.frame(data)
+
+  df_t <- data.frame(t(df))
+  colnames(df_t) <- df_t[1, ]
+  df_t <- df_t[-1, ]
+
+  df_t <- cbind(Date = rownames(df_t), df_t)
+  rownames(df_t) <- 1:nrow(df_t)
+  
+  dates <- as.numeric(substr(df_t$Date, 2, 6))
+  Dates <- as.Date(dates, origin = '1899-12-30')
+
+  df_t$Date <- Dates
+
+  df_t <- df_t[ , !names(df_t) %in% NA]
+  df_t_filtered <- df_t %>% select(-starts_with('NA'))
+  
+  if(bank_flag==1){
+    df_t_filtered <- df_t_filtered[seq(from = 1, to = nrow(df_t_filtered), by = 3),]
+  } else if(bank_flag==2){
+    df_t_filtered <- df_t_filtered[seq(from = 1, to = nrow(df_t_filtered), by = 1),]
+  } else if(bank_flag==0){
+    df_t_filtered <- df_t_filtered[seq(from = 2, to = nrow(df_t_filtered), by = 3),]
+  }
+  return(df_t_filtered)
+}
+```
+
+```{r}
+aggregate_bank_reports <- function(bank_flag, pg_flag, sheet){
+  bank1 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\Silicon_Valley_bank.xlsx", sheet=sheet)
+  bank2 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\Citizens_bank.xlsx", sheet=sheet)
+  bank3 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\HSBC_bank.xlsx", sheet=sheet)
+  bank4 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\Morgan_Stanley_bank.xlsx", sheet=sheet)
+  bank5 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\First_Republic_bank.xlsx", sheet=sheet)
+  
+  bank1_df <- transforamtions_on_excel(bank1, bank_flag)
+  names(bank1_df)[2] <- "Bank"
+  bank1_df$Bank <- "Silicon Valley Bank"
+  bank2_df <- transforamtions_on_excel(bank2, bank_flag)
+  names(bank2_df)[2] <- "Bank"
+  bank2_df$Bank <- "Citizens Bank, National Association"
+  bank3_df <- transforamtions_on_excel(bank3, bank_flag)
+  names(bank3_df)[2] <- "Bank"
+  bank3_df$Bank <- "HSBC Bank USA, National Association"
+  bank4_df <- transforamtions_on_excel(bank4, bank_flag)
+  names(bank4_df)[2] <- "Bank"
+  bank4_df$Bank <- "Morgan Stanley Private Bank, National Association"
+  bank5_df <- transforamtions_on_excel(bank5, bank_flag)
+  names(bank5_df)[2] <- "Bank"
+  bank5_df$Bank <- "First Republic Bank"
+  
+  if (pg_flag == 1){
+    pg_df <- transforamtions_on_excel(bank1, 0)
+    names(pg_df)[2] <- "Bank"
+    pg_df$Bank <- "Relative Peer Group"
+    
+  }
+  
+  if (pg_flag == 1){
+    final_bank_df <- rbind(bank1_df, bank2_df, bank3_df, bank4_df, bank5_df, pg_df)
+  } else{
+    final_bank_df <- rbind(bank1_df, bank2_df, bank3_df, bank4_df, bank5_df)
+  }
+  
+  rownames(final_bank_df) <- 1:nrow(final_bank_df)
+  
+  return(final_bank_df)
+}
+```
+
+```{r}
+SR_data <- aggregate_bank_reports(1, 1, "Summary Ratios")
+```
