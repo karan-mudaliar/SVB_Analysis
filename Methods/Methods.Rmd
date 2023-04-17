@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 ```{r}
 library(readxl)
 library(tidyr)
@@ -16,10 +17,12 @@ library(tidyverse)
 library(dplyr)
 ```
 
+
+Data Transformations:
+
 ```{r}
-transforamtions_on_excel <- function(data, bank_flag){
+transformations_on_excel <- function(data, bank_flag){
   df <- data.frame(data)
-  print(df)
 
   df_t <- data.frame(t(df))
   colnames(df_t) <- df_t[1, ]
@@ -28,11 +31,20 @@ transforamtions_on_excel <- function(data, bank_flag){
   df_t <- cbind(Date = rownames(df_t), df_t)
   rownames(df_t) <- 1:nrow(df_t)
   
-  dates <- as.numeric(substr(df_t$Date, 2, 6))
-  Dates <- as.Date(dates, origin = '1899-12-30')
-
-  df_t$Date <- Dates
-
+  date_str <- df_t$Date[[1]]
+  date_str_f2 <- substr(date_str, 1, 2)
+  
+  if (date_str_f2 == "x4"){
+    dates <- as.numeric(substr(df_t$Date, 2, 6))
+    Dates <- as.Date(dates, origin = '1899-12-30')
+  } else{
+    dates <- sapply(df_t$Date, substr, start = 1, stop = 11)
+    dates <- data.frame(dates)
+    Dates <- sapply(dates$dates, function(x) as.Date(x, format = "x%m.%d.%Y"))
+    print(dates)
+  }
+  df_t$Date <- dates$Dates
+  
   df_t <- df_t[ , !names(df_t) %in% NA]
   df_t_filtered <- df_t %>% select(-starts_with('NA'))
   
@@ -47,45 +59,44 @@ transforamtions_on_excel <- function(data, bank_flag){
 }
 ```
 
+
 ```{r}
 aggregate_bank_reports <- function(bank_flag, pg_flag, sheet){
-  bank1 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\Silicon_Valley_bank.xlsx", sheet=sheet)
-  bank2 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\Citizens_bank.xlsx", sheet=sheet)
-  bank3 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\HSBC_bank.xlsx", sheet=sheet)
-  bank4 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\Morgan_Stanley_bank.xlsx", sheet=sheet)
-  bank5 <- read_excel("C:\\Users\\18577\\Desktop\\IDMP\\Final Project\\First_Republic_bank.xlsx", sheet=sheet)
+  parentdir <- dirname(normalizePath(file.path(getwd(),'.')))
+  cur<-file.path(parentdir,'Data')
   
-  bank1_df <- transforamtions_on_excel(bank1, bank_flag)
+  bank1 <- read_excel(file.path(cur,'Silicon_Valley_bank.xlsx'), sheet=sheet)
+  bank2 <- read_excel(file.path(cur,'Citizens_bank.xlsx'), sheet=sheet)
+  bank3 <- read_excel(file.path(cur,'HSBC_bank.xlsx'), sheet=sheet)
+  bank4 <- read_excel(file.path(cur,'Morgan_Stanley_bank.xlsx'), sheet=sheet)
+  bank5 <- read_excel(file.path(cur,'First_Republic_bank.xlsx'), sheet=sheet)
+  
+  bank1_df <- transformations_on_excel(bank1, bank_flag)
   names(bank1_df)[2] <- "Bank"
   bank1_df$Bank <- "Silicon Valley Bank"
-  bank2_df <- transforamtions_on_excel(bank2, bank_flag)
+  bank2_df <- transformations_on_excel(bank2, bank_flag)
   names(bank2_df)[2] <- "Bank"
   bank2_df$Bank <- "Citizens Bank, National Association"
-  bank3_df <- transforamtions_on_excel(bank3, bank_flag)
+  bank3_df <- transformations_on_excel(bank3, bank_flag)
   names(bank3_df)[2] <- "Bank"
   bank3_df$Bank <- "HSBC Bank USA, National Association"
-  bank4_df <- transforamtions_on_excel(bank4, bank_flag)
+  bank4_df <- transformations_on_excel(bank4, bank_flag)
   names(bank4_df)[2] <- "Bank"
   bank4_df$Bank <- "Morgan Stanley Private Bank, National Association"
-  bank5_df <- transforamtions_on_excel(bank5, bank_flag)
+  bank5_df <- transformations_on_excel(bank5, bank_flag)
   names(bank5_df)[2] <- "Bank"
   bank5_df$Bank <- "First Republic Bank"
   
   if (pg_flag == 1){
-    pg_df <- transforamtions_on_excel(bank3, 0)
+    pg_df <- transformations_on_excel(bank3, 0)
     names(pg_df)[2] <- "Bank"
     pg_df$Bank <- "Relative Peer Group"
-    
-  }
-  
-  if (pg_flag == 1){
     final_bank_df <- rbind(bank1_df, bank2_df, bank3_df, bank4_df, bank5_df, pg_df)
   } else{
     final_bank_df <- rbind(bank1_df, bank2_df, bank3_df, bank4_df, bank5_df)
   }
   
   rownames(final_bank_df) <- 1:nrow(final_bank_df)
-  
   return(final_bank_df)
 }
 ```
@@ -96,10 +107,14 @@ AYFC_data <- aggregate_bank_reports(1, 1, "Asset Yields and Funding Costs")
 BSP_data <- aggregate_bank_reports(1, 1, "Balance Sheet Percentage")
 IRR_data <- aggregate_bank_reports(1, 1, "Interest Rate Risk")
 LF_data <- aggregate_bank_reports(1, 1, "Liquidity and Funding")
-LF_tot_data <- aggregate_bank_reports(1, 2, "Liquidity and Funding - Totals")
+LF_tot_data <- aggregate_bank_reports(2, 0, "Liquidity and Funding - Totals")
 LI_data <- aggregate_bank_reports(1, 1, "Liquidity & Investment")
-LI_tot_data <- aggregate_bank_reports(1, 2, "Liquidity & Investment - Totals")
-CAD_data <- aggregate_bank_reports(1, 2, "Capital Analysis D")
+LI_tot_data <- aggregate_bank_reports(2, 0, "Liquidity & Investment - Totals")
+CAD_data <- aggregate_bank_reports(2, 0, "Capital Analysis D")
+
+bank2 <- read_excel("C:/Users/sasre/OneDrive/Documents/GitHub/SVB_Analysis/Data/First_Republic_bank.xlsx", sheet="Liquidity and Funding")
+bank2_df <- transformations_on_excel(bank2, 1)
+
 ```
 
 
@@ -108,6 +123,19 @@ CAD_data <- aggregate_bank_reports(1, 2, "Capital Analysis D")
 IRR_data %>% filter(Bank == "Silicon Valley Bank") %>% ggplot(aes(x = Date, y = `Held to Maturity`, group = 1)) + geom_line() + geom_point()
 
 
+```
+
+```{r}
 
 ```
 
+```{r}
+ggplot() +
+  geom_point(aes(x = LF_tot_data$Date, y = LF_tot_data$`Short Term Non Core Funding`))
+```
+```{r}
+bank1 <- read_excel("C:/Users/sasre/OneDrive/Documents/GitHub/SVB_Analysis/Data/Citizens_bank.xlsx", sheet="Liquidity and Funding - Totals")
+bank1_df <- transforamtions_on_excel(bank1, 2)
+
+LF_tot_data <- aggregate_bank_reports(2, 0, "Liquidity and Funding - Totals")
+```
