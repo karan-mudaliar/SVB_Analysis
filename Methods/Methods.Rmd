@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+Dependency Loading:
+
 ```{r}
 library(readxl)
 library(tidyr)
@@ -18,7 +20,7 @@ library(dplyr)
 ```
 
 
-Data Transformations:
+###Data Transformation Functions:
 
 ```{r}
 transformations_on_excel <- function(data, bank_flag){
@@ -33,17 +35,19 @@ transformations_on_excel <- function(data, bank_flag){
   
   date_str <- df_t$Date[[1]]
   date_str_f2 <- substr(date_str, 1, 2)
+  print(class(date_str_f2))
   
-  if (date_str_f2 == "x4"){
+  if (date_str_f2 == "X4"){
     dates <- as.numeric(substr(df_t$Date, 2, 6))
     Dates <- as.Date(dates, origin = '1899-12-30')
+    df_t$Date <- Dates
   } else{
     dates <- sapply(df_t$Date, substr, start = 1, stop = 11)
     dates <- data.frame(dates)
-    Dates <- sapply(dates$dates, function(x) as.Date(x, format = "x%m.%d.%Y"))
-    print(dates)
+    dates$Dates <- as.Date(sub("X", "", dates$dates), format = "%m.%d.%Y")
+    df_t$Date <- dates$Dates
   }
-  df_t$Date <- dates$Dates
+  
   
   df_t <- df_t[ , !names(df_t) %in% NA]
   df_t_filtered <- df_t %>% select(-starts_with('NA'))
@@ -59,6 +63,8 @@ transformations_on_excel <- function(data, bank_flag){
 }
 ```
 
+
+###Data Loading:
 
 ```{r}
 aggregate_bank_reports <- function(bank_flag, pg_flag, sheet){
@@ -101,6 +107,7 @@ aggregate_bank_reports <- function(bank_flag, pg_flag, sheet){
 }
 ```
 
+
 ```{r}
 SR_data <- aggregate_bank_reports(1, 1, "Summary Ratios")
 AYFC_data <- aggregate_bank_reports(1, 1, "Asset Yields and Funding Costs")
@@ -111,31 +118,111 @@ LF_tot_data <- aggregate_bank_reports(2, 0, "Liquidity and Funding - Totals")
 LI_data <- aggregate_bank_reports(1, 1, "Liquidity & Investment")
 LI_tot_data <- aggregate_bank_reports(2, 0, "Liquidity & Investment - Totals")
 CAD_data <- aggregate_bank_reports(2, 0, "Capital Analysis D")
-
-bank2 <- read_excel("C:/Users/sasre/OneDrive/Documents/GitHub/SVB_Analysis/Data/First_Republic_bank.xlsx", sheet="Liquidity and Funding")
-bank2_df <- transformations_on_excel(bank2, 1)
-
 ```
 
+
+###Visualizations:
+
+
+1) Percentage of Bank Assets in Held-to-Maturity Securities:
 
 ```{r}
 
-IRR_data %>% filter(Bank == "Silicon Valley Bank") %>% ggplot(aes(x = Date, y = `Held to Maturity`, group = 1)) + geom_line() + geom_point()
-
-
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Held-to-Maturity Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  x = "Held-to-Maturity Securities",
+                  y = "Date") + 
+             theme_classic()
+  
 ```
+
+
+
+2) Percentage of Bank Assets in Held-to-Maturity Securities:
 
 ```{r}
 
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Held-to-Maturity Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  x = "Held-to-Maturity Securities",
+                  y = "Date") + 
+             theme_classic()
+  
 ```
 
-```{r}
-ggplot() +
-  geom_point(aes(x = LF_tot_data$Date, y = LF_tot_data$`Short Term Non Core Funding`))
-```
-```{r}
-bank1 <- read_excel("C:/Users/sasre/OneDrive/Documents/GitHub/SVB_Analysis/Data/Citizens_bank.xlsx", sheet="Liquidity and Funding - Totals")
-bank1_df <- transforamtions_on_excel(bank1, 2)
 
-LF_tot_data <- aggregate_bank_reports(2, 0, "Liquidity and Funding - Totals")
+
+3) Percentage of Bank Assets in Held-to-Maturity Securities:
+
+```{r}
+
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Held-to-Maturity Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  x = "Held-to-Maturity Securities",
+                  y = "Date") + 
+             theme_classic()
+  
 ```
+
+
+
+4) Percentage of Bank Assets in Held-to-Maturity Securities:
+
+```{r}
+
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Held-to-Maturity Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  x = "Held-to-Maturity Securities",
+                  y = "Date") + 
+             theme_classic()
+  
+```
+
+
+
+5) Percentage of Bank Assets in Held-to-Maturity Securities:
+
+```{r}
+
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Held-to-Maturity Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  x = "Held-to-Maturity Securities",
+                  y = "Date") + 
+             theme_classic()
+  
+```
+
+
+
+6) Percentage of Bank Assets in Held-to-Maturity Securities:
+
+```{r}
+
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Held-to-Maturity Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  x = "Held-to-Maturity Securities",
+                  y = "Date") + 
+             theme_classic()
+  
+```
+
+
+
