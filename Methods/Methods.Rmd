@@ -19,6 +19,7 @@ library(dplyr)
 ```{r}
 transforamtions_on_excel <- function(data, bank_flag){
   df <- data.frame(data)
+  print(df)
 
   df_t <- data.frame(t(df))
   colnames(df_t) <- df_t[1, ]
@@ -71,7 +72,7 @@ aggregate_bank_reports <- function(bank_flag, pg_flag, sheet){
   bank5_df$Bank <- "First Republic Bank"
   
   if (pg_flag == 1){
-    pg_df <- transforamtions_on_excel(bank1, 0)
+    pg_df <- transforamtions_on_excel(bank3, 0)
     names(pg_df)[2] <- "Bank"
     pg_df$Bank <- "Relative Peer Group"
     
@@ -91,4 +92,22 @@ aggregate_bank_reports <- function(bank_flag, pg_flag, sheet){
 
 ```{r}
 SR_data <- aggregate_bank_reports(1, 1, "Summary Ratios")
+AYFC_data <- aggregate_bank_reports(1, 1, "Asset Yields and Funding Costs")
+BSP_data <- aggregate_bank_reports(1, 1, "Balance Sheet Percentage")
+IRR_data <- aggregate_bank_reports(1, 1, "Interest Rate Risk")
+LF_data <- aggregate_bank_reports(1, 1, "Liquidity and Funding")
+LF_tot_data <- aggregate_bank_reports(1, 2, "Liquidity and Funding - Totals")
+LI_data <- aggregate_bank_reports(1, 1, "Liquidity & Investment")
+LI_tot_data <- aggregate_bank_reports(1, 2, "Liquidity & Investment - Totals")
+CAD_data <- aggregate_bank_reports(1, 2, "Capital Analysis D")
 ```
+
+
+```{r}
+
+IRR_data %>% filter(Bank == "Silicon Valley Bank") %>% ggplot(aes(x = Date, y = `Held to Maturity`, group = 1)) + geom_line() + geom_point()
+
+
+
+```
+
