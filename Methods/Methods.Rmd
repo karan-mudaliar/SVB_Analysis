@@ -35,7 +35,6 @@ transformations_on_excel <- function(data, bank_flag){
   
   date_str <- df_t$Date[[1]]
   date_str_f2 <- substr(date_str, 1, 2)
-  print(class(date_str_f2))
   
   if (date_str_f2 == "X4"){
     dates <- as.numeric(substr(df_t$Date, 2, 6))
@@ -124,34 +123,47 @@ CAD_data <- aggregate_bank_reports(2, 0, "Capital Analysis D")
 ###Visualizations:
 
 
-1) Percentage of Bank Assets in Held-to-Maturity Securities:
+1) Change in Assets and Tier 1 Capital for all competitor Banks over time:
 
 ```{r}
 
-IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+SR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Assets`), color = Bank)) +
              geom_point(aes(shape = Bank, size=3)) +
-             geom_line(size=1) + 
-             labs(title = "Total Held-to-Maturity Securities", 
-                  subtitle = "divided by total assets of the Bank",
-                  x = "Held-to-Maturity Securities",
-                  y = "Date") + 
+             geom_line(size=1) +
+             labs(title = "The Annual Change in Total Assets",
+                  y = "Change in Assets",
+                  x = "Date") + 
+             guides(size = FALSE) +
              theme_classic()
-  
+
+
+SR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Tier 1 Capital`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) +
+             labs(title = "The Change in Tier 1 Capital",
+                  y = "Tier 1 Capital",
+                  x = "Date") + 
+             guides(size = FALSE) +
+             theme_classic()
+
 ```
 
 
 
-2) Percentage of Bank Assets in Held-to-Maturity Securities:
+
+2) Customer deposits to Silicon Valley Bank over time:
 
 ```{r}
 
-IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+LF_tot_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Total Deposits.1`)/as.numeric(SR_data$`Average Total Assets`)
+                            , color = Bank)) +
              geom_point(aes(shape = Bank, size=3)) +
              geom_line(size=1) + 
-             labs(title = "Total Held-to-Maturity Securities", 
-                  subtitle = "divided by total assets of the Bank",
-                  x = "Held-to-Maturity Securities",
-                  y = "Date") + 
+             labs(title = "Total deposits by Customers", 
+                  subtitle = "as a percent of total Assets",
+                  x = "Deposits",
+                  y = "Date") +  
+             guides(size = FALSE) +
              theme_classic()
   
 ```
@@ -168,7 +180,8 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = B
              labs(title = "Total Held-to-Maturity Securities", 
                   subtitle = "divided by total assets of the Bank",
                   x = "Held-to-Maturity Securities",
-                  y = "Date") + 
+                  y = "Date") +  
+             guides(size = FALSE) +
              theme_classic()
   
 ```
@@ -185,7 +198,8 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = B
              labs(title = "Total Held-to-Maturity Securities", 
                   subtitle = "divided by total assets of the Bank",
                   x = "Held-to-Maturity Securities",
-                  y = "Date") + 
+                  y = "Date") +  
+             guides(size = FALSE) +
              theme_classic()
   
 ```
@@ -202,7 +216,8 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = B
              labs(title = "Total Held-to-Maturity Securities", 
                   subtitle = "divided by total assets of the Bank",
                   x = "Held-to-Maturity Securities",
-                  y = "Date") + 
+                  y = "Date") +  
+             guides(size = FALSE) +
              theme_classic()
   
 ```
@@ -219,7 +234,8 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = B
              labs(title = "Total Held-to-Maturity Securities", 
                   subtitle = "divided by total assets of the Bank",
                   x = "Held-to-Maturity Securities",
-                  y = "Date") + 
+                  y = "Date") +  
+             guides(size = FALSE) +
              theme_classic()
   
 ```
