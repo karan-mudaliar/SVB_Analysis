@@ -117,6 +117,9 @@ LF_tot_data <- aggregate_bank_reports(2, 0, "Liquidity and Funding - Totals")
 LI_data <- aggregate_bank_reports(1, 1, "Liquidity & Investment")
 LI_tot_data <- aggregate_bank_reports(2, 0, "Liquidity & Investment - Totals")
 CAD_data <- aggregate_bank_reports(2, 0, "Capital Analysis D")
+
+CAD_data <- CAD_data[-11,]
+rownames(CAD_data) <- 1:nrow(CAD_data)
 ```
 
 
@@ -161,8 +164,8 @@ LF_tot_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Total Deposits.1`)/as.num
              geom_line(size=1) + 
              labs(title = "Total deposits by Customers", 
                   subtitle = "as a percent of total Assets",
-                  x = "Deposits",
-                  y = "Date") +  
+                  y = "Deposits",
+                  x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
   
@@ -170,7 +173,46 @@ LF_tot_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Total Deposits.1`)/as.num
 
 
 
-3) Percentage of Bank Assets in Held-to-Maturity Securities:
+3) Division of Capital of Banks into different Asset categories:
+
+```{r}
+
+AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Investment Securities`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Securities held by Banks", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Total Securities",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Loan & Leases`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Loans & Leases given out by Banks", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Total Loans & Leases",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Interest-Bearing Bank Balances`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Interest-Bearing Bank Balances", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Total Interest-Bearing Bank Balances",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+
+```
+
+
+
+4) SVB Clearly has an overexposure to Securities:
 
 ```{r}
 
@@ -179,44 +221,47 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = B
              geom_line(size=1) + 
              labs(title = "Total Held-to-Maturity Securities", 
                   subtitle = "divided by total assets of the Bank",
-                  x = "Held-to-Maturity Securities",
-                  y = "Date") +  
+                  y = "Held-to-Maturity Securities",
+                  x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
-  
+
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Available for Sale`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Available for Sale Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Available for Sale Securities",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
 ```
 
 
 
-4) Percentage of Bank Assets in Held-to-Maturity Securities:
+5) Among Held-to-Maturity Securities, which they are overexposed to:
 
 ```{r}
 
-IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+LI_data %>% filter(Bank != "First Republic Bank") %>%
+       ggplot(aes(x = `Date`,y = as.numeric(`Municipal Securities`), color = Bank)) +
              geom_point(aes(shape = Bank, size=3)) +
              geom_line(size=1) + 
-             labs(title = "Total Held-to-Maturity Securities", 
-                  subtitle = "divided by total assets of the Bank",
-                  x = "Held-to-Maturity Securities",
-                  y = "Date") +  
+             labs(title = "Total Municipal Securities", 
+                  subtitle = "divided by the sum of total held-to-maturity Securities of the Bank",
+                  y = "Held-to-Maturity Securities",
+                  x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
-  
-```
 
-
-
-5) Percentage of Bank Assets in Held-to-Maturity Securities:
-
-```{r}
-
-IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+LI_data %>% ggplot(aes(x = `Date`,y = as.numeric(`US Treas & Govt Agencies`), color = Bank)) +
              geom_point(aes(shape = Bank, size=3)) +
              geom_line(size=1) + 
-             labs(title = "Total Held-to-Maturity Securities", 
-                  subtitle = "divided by total assets of the Bank",
-                  x = "Held-to-Maturity Securities",
-                  y = "Date") +  
+             labs(title = "Total US Treasury & Govt Agency Securities", 
+                  subtitle = "divided by the sum of total held-to-maturity Securities of the Bank",
+                  y = "US Treasury & Govt Agency Securities",
+                  x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
   
@@ -233,8 +278,8 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = B
              geom_line(size=1) + 
              labs(title = "Total Held-to-Maturity Securities", 
                   subtitle = "divided by total assets of the Bank",
-                  x = "Held-to-Maturity Securities",
-                  y = "Date") +  
+                  y = "Held-to-Maturity Securities",
+                  x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
   
