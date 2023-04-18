@@ -134,7 +134,7 @@ SR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Assets`), color = Bank))
              geom_point(aes(shape = Bank, size=3)) +
              geom_line(size=1) +
              labs(title = "The Annual Change in Total Assets",
-                  y = "Change in Assets",
+                  y = "Change in Assets in %",
                   x = "Date") + 
              guides(size = FALSE) +
              theme_classic()
@@ -144,7 +144,7 @@ SR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Tier 1 Capital`), color = Bank
              geom_point(aes(shape = Bank, size=3)) +
              geom_line(size=1) +
              labs(title = "The Change in Tier 1 Capital",
-                  y = "Tier 1 Capital",
+                  y = "Change in Tier 1 Capital in %",
                   x = "Date") + 
              guides(size = FALSE) +
              theme_classic()
@@ -165,6 +165,7 @@ LF_tot_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Total Deposits.1`), color
                   y = "Deposits",
                   x = "Date") +  
              guides(size = FALSE) +
+             scale_y_continuous(labels = scales::comma) +
              theme_classic()
   
 ```
@@ -180,7 +181,7 @@ AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Investment Securities`
              geom_line(size=1) + 
              labs(title = "Total Securities held by Banks", 
                   subtitle = "divided by total assets of the Bank",
-                  y = "Total Securities",
+                  y = "Total Securities in %",
                   x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
@@ -190,7 +191,7 @@ AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Loan & Leases`), color
              geom_line(size=1) + 
              labs(title = "Total Loans & Leases given out by Banks", 
                   subtitle = "divided by total assets of the Bank",
-                  y = "Total Loans & Leases",
+                  y = "Total Loans & Leases in %",
                   x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
@@ -200,7 +201,7 @@ AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Interest-Bearing Bank Balanc
              geom_line(size=1) + 
              labs(title = "Total Interest-Bearing Bank Balances", 
                   subtitle = "divided by total assets of the Bank",
-                  y = "Total Interest-Bearing Bank Balances",
+                  y = "Total Interest-Bearing Bank Balances in %",
                   x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
@@ -210,7 +211,7 @@ AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Interest-Bearing Bank Balanc
 
 
 
-4) SVB Clearly has an overexposure to Securities:
+4) SVB clearly has an overexposure to Securities:
 
 ```{r}
 
@@ -219,7 +220,7 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = B
              geom_line(size=1) + 
              labs(title = "Total Held-to-Maturity Securities", 
                   subtitle = "divided by total assets of the Bank",
-                  y = "Held-to-Maturity Securities",
+                  y = "Held-to-Maturity Securities in %",
                   x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
@@ -229,7 +230,7 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Available for Sale`), color =
              geom_line(size=1) + 
              labs(title = "Total Available for Sale Securities", 
                   subtitle = "divided by total assets of the Bank",
-                  y = "Available for Sale Securities",
+                  y = "Available for Sale Securities in %",
                   x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
@@ -247,8 +248,8 @@ LI_data %>% filter(Bank != "First Republic Bank") %>%
              geom_point(aes(shape = Bank, size=3)) +
              geom_line(size=1) + 
              labs(title = "Total Municipal Securities", 
-                  subtitle = "divided by the sum of total held-to-maturity Securities of the Bank",
-                  y = "Held-to-Maturity Securities",
+                  subtitle = "divided by total securities of the Bank",
+                  y = "Held-to-Maturity Securities in %",
                   x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
@@ -258,7 +259,7 @@ LI_data %>% ggplot(aes(x = `Date`,y = as.numeric(`US Treas & Govt Agencies`), co
              geom_line(size=1) + 
              labs(title = "Total US Treasury & Govt Agency Securities", 
                   subtitle = "divided by the sum of total held-to-maturity Securities of the Bank",
-                  y = "US Treasury & Govt Agency Securities",
+                  y = "US Treasury & Govt Agency Securities in %",
                   x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
@@ -276,7 +277,7 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Unrealized Appreciation/Depre
              geom_line(size=1) + 
              labs(title = "Unrealized Appreciation/Depreciation of Securities", 
                   subtitle = "divided by total assets of the Bank",
-                  y = "Unrealized Gain/Loss",
+                  y = "Unrealized Gain/Loss in %",
                   x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
@@ -288,17 +289,66 @@ CAD_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Risk-Weighted Assets`),
                   y = "Unrealized Gain/Loss",
                   x = "Date") +  
              guides(size = FALSE) +
+             scale_y_continuous(labels = scales::comma) +
              theme_classic()
   
 ```
 
 
-Assets pledged for liquididity:
+
+7) Assets pledged for Liquidity:
+
+```{r}
+
+LI_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Pledged Assets`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Assets pledged for loans",
+                  y = "Assets in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+LI_tot_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Pledged Securities`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Securities pledged for loans",
+                  y = "Securities",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             scale_y_continuous(labels = scales::comma) +
+             theme_classic()
+
+
+LF_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Short Term Non Core Funding`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Short Term Non Core Funding",
+                  subtitle =  "as a percent of Total Assets",
+                  y = "Non Core Funding in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+  
+```
 
 
 
+8)
 
+```{r}
 
+LI_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Municipal Securities`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Municipal Securities", 
+                  subtitle = "divided by total securities of the Bank",
+                  y = "Held-to-Maturity Securities in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+```
 
 
 
