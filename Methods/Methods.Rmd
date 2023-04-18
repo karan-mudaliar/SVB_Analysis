@@ -158,12 +158,10 @@ SR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Tier 1 Capital`), color = Bank
 
 ```{r}
 
-LF_tot_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Total Deposits.1`)/as.numeric(SR_data$`Average Total Assets`)
-                            , color = Bank)) +
+LF_tot_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Total Deposits.1`), color = Bank)) +
              geom_point(aes(shape = Bank, size=3)) +
              geom_line(size=1) + 
-             labs(title = "Total deposits by Customers", 
-                  subtitle = "as a percent of total Assets",
+             labs(title = "Total deposits by Customers",
                   y = "Deposits",
                   x = "Date") +  
              guides(size = FALSE) +
@@ -240,7 +238,7 @@ IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Available for Sale`), color =
 
 
 
-5) Among Held-to-Maturity Securities, which they are overexposed to:
+5) Among Held-to-Maturity Securities, they are overexposed to:
 
 ```{r}
 
@@ -269,21 +267,38 @@ LI_data %>% ggplot(aes(x = `Date`,y = as.numeric(`US Treas & Govt Agencies`), co
 
 
 
-6) Percentage of Bank Assets in Held-to-Maturity Securities:
+6) Unrealized losses from the Securities due to Interest Rate Risk:
 
 ```{r}
 
-IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Unrealized Appreciation/Depreciation`), color = Bank)) +
              geom_point(aes(shape = Bank, size=3)) +
              geom_line(size=1) + 
-             labs(title = "Total Held-to-Maturity Securities", 
+             labs(title = "Unrealized Appreciation/Depreciation of Securities", 
                   subtitle = "divided by total assets of the Bank",
-                  y = "Held-to-Maturity Securities",
+                  y = "Unrealized Gain/Loss",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+CAD_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Risk-Weighted Assets`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Risk-Weighted Assets of each bank",
+                  y = "Unrealized Gain/Loss",
                   x = "Date") +  
              guides(size = FALSE) +
              theme_classic()
   
 ```
+
+
+Assets pledged for liquididity:
+
+
+
+
+
 
 
 
