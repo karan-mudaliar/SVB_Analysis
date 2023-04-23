@@ -286,7 +286,7 @@ CAD_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Risk-Weighted Assets`),
              geom_point(aes(shape = Bank, size=3)) +
              geom_line(size=1) + 
              labs(title = "Total Risk-Weighted Assets of each bank",
-                  y = "Unrealized Gain/Loss",
+                  y = "Total Risk-Weighted Assets",
                   x = "Date") +  
              guides(size = FALSE) +
              scale_y_continuous(labels = scales::comma) +
